@@ -1,0 +1,1390 @@
+20200421 09:00:41.431 [servctl:INFO] main:1528 Service controller started
+20200421 09:00:41.490 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 1296
+20200421 09:00:41.510 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 1334
+20200421 09:00:41.592 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 1344
+20200421 09:00:41.807 [servctl:INFO] main:217 notification socket of service (262144, unknown service) registered successfully. pid = 1346
+20200421 09:00:42.021 [servctl:INFO] main:217 notification socket of service (8192, misc agent) registered successfully. pid = 1348
+20200421 09:00:42.352 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 1351
+20200421 09:01:41.975 [servctl:INFO] main:866 
+20200421 09:01:41.978 [servctl:EROR] main:363 sending fd 12 to client
+20200421 10:30:53.912 [servctl:INFO] main:866 
+20200421 10:30:53.914 [servctl:EROR] main:363 sending fd 12 to client
+20200421 11:41:04.313 [servctl:INFO] main:866 
+20200421 11:41:04.315 [servctl:EROR] main:363 sending fd 12 to client
+20200421 13:54:01.955 [servctl:INFO] main:866 
+20200421 13:54:01.970 [servctl:EROR] main:363 sending fd 12 to client
+20200421 13:54:14.468 [servctl:INFO] main:217 notification socket of service (4, main gui) registered successfully. pid = 1832
+20200422 13:49:26.693 [servctl:INFO] main:866 
+20200422 13:49:26.707 [servctl:EROR] main:363 sending fd 13 to client
+20200423 01:52:43.425 [servctl:INFO] main:866 
+20200423 01:52:43.438 [servctl:EROR] main:363 sending fd 12 to client
+20200424 15:40:53.519 [servctl:INFO] main:866 
+20200424 15:40:53.536 [servctl:EROR] main:363 sending fd 12 to client
+20200424 21:18:22.971 [servctl:INFO] main:866 
+20200424 21:18:22.986 [servctl:EROR] main:363 sending fd 12 to client
+20200424 22:18:23.457 [servctl:INFO] main:866 
+20200424 22:18:23.458 [servctl:EROR] main:363 sending fd 12 to client
+20200425 02:52:56.161 [servctl:INFO] main:866 
+20200425 02:52:56.432 [servctl:EROR] main:363 sending fd 12 to client
+20200425 02:52:56.623 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200425 08:17:17.602 [servctl:INFO] main:866 
+20200425 08:17:17.623 [servctl:EROR] main:363 sending fd 12 to client
+20200425 08:17:17.639 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200425 11:49:20.253 [servctl:INFO] main:866 
+20200425 11:49:20.339 [servctl:EROR] main:363 sending fd 12 to client
+20200425 12:49:20.201 [servctl:INFO] main:866 
+20200425 12:49:20.202 [servctl:EROR] main:363 sending fd 12 to client
+20200425 13:49:20.222 [servctl:INFO] main:866 
+20200425 13:49:20.226 [servctl:EROR] main:363 sending fd 12 to client
+20200425 14:49:20.233 [servctl:INFO] main:866 
+20200425 14:49:20.234 [servctl:EROR] main:363 sending fd 12 to client
+20200425 15:56:06.135 [servctl:INFO] main:866 
+20200425 15:56:06.141 [servctl:EROR] main:363 sending fd 12 to client
+20200425 16:56:06.156 [servctl:INFO] main:866 
+20200425 16:56:06.169 [servctl:EROR] main:363 sending fd 12 to client
+20200425 17:56:06.170 [servctl:INFO] main:866 
+20200425 17:56:06.172 [servctl:EROR] main:363 sending fd 12 to client
+20200425 18:56:06.183 [servctl:INFO] main:866 
+20200425 18:56:06.185 [servctl:EROR] main:363 sending fd 12 to client
+20200425 19:56:06.195 [servctl:INFO] main:866 
+20200425 19:56:06.198 [servctl:EROR] main:363 sending fd 12 to client
+20200425 20:56:06.208 [servctl:INFO] main:866 
+20200425 20:56:06.210 [servctl:EROR] main:363 sending fd 12 to client
+20200425 21:56:06.220 [servctl:INFO] main:866 
+20200425 21:56:06.222 [servctl:EROR] main:363 sending fd 12 to client
+20200425 22:56:48.487 [servctl:INFO] main:866 
+20200425 22:56:48.490 [servctl:EROR] main:363 sending fd 12 to client
+20200426 00:05:48.334 [servctl:INFO] main:866 
+20200426 00:05:48.336 [servctl:EROR] main:363 sending fd 12 to client
+20200426 01:05:48.364 [servctl:INFO] main:866 
+20200426 01:05:48.366 [servctl:EROR] main:363 sending fd 12 to client
+20200426 02:11:12.285 [servctl:INFO] main:866 
+20200426 02:11:12.287 [servctl:EROR] main:363 sending fd 12 to client
+20200426 03:11:12.319 [servctl:INFO] main:866 
+20200426 03:11:12.321 [servctl:EROR] main:363 sending fd 12 to client
+20200426 04:11:26.656 [servctl:INFO] main:866 
+20200426 04:11:26.658 [servctl:EROR] main:363 sending fd 12 to client
+20200426 05:12:11.324 [servctl:INFO] main:866 
+20200426 05:12:11.325 [servctl:EROR] main:363 sending fd 12 to client
+20200426 06:12:12.397 [servctl:INFO] main:866 
+20200426 06:12:12.398 [servctl:EROR] main:363 sending fd 12 to client
+20200426 07:12:37.868 [servctl:INFO] main:866 
+20200426 07:12:37.870 [servctl:EROR] main:363 sending fd 12 to client
+20200426 08:32:26.630 [servctl:INFO] main:866 
+20200426 08:32:26.632 [servctl:EROR] main:363 sending fd 12 to client
+20200426 09:33:14.707 [servctl:INFO] main:866 
+20200426 09:33:14.709 [servctl:EROR] main:363 sending fd 12 to client
+20200426 10:51:46.639 [servctl:INFO] main:866 
+20200426 10:51:46.641 [servctl:EROR] main:363 sending fd 12 to client
+20200426 11:51:46.686 [servctl:INFO] main:866 
+20200426 11:51:46.694 [servctl:EROR] main:363 sending fd 12 to client
+20200426 12:51:47.787 [servctl:INFO] main:866 
+20200426 12:51:47.800 [servctl:EROR] main:363 sending fd 12 to client
+20200426 13:51:47.797 [servctl:INFO] main:866 
+20200426 13:51:47.799 [servctl:EROR] main:363 sending fd 12 to client
+20200426 14:51:47.804 [servctl:INFO] main:866 
+20200426 14:51:47.808 [servctl:EROR] main:363 sending fd 12 to client
+20200426 15:51:47.818 [servctl:INFO] main:866 
+20200426 15:51:47.820 [servctl:EROR] main:363 sending fd 12 to client
+20200426 15:56:47.808 [servctl:EROR] main:363 sending fd 12 to client
+20200426 16:51:47.831 [servctl:INFO] main:866 
+20200426 16:51:47.834 [servctl:EROR] main:363 sending fd 12 to client
+20200426 17:51:47.844 [servctl:INFO] main:866 
+20200426 17:51:47.846 [servctl:EROR] main:363 sending fd 12 to client
+20200426 18:51:47.852 [servctl:INFO] main:866 
+20200426 18:51:47.854 [servctl:EROR] main:363 sending fd 12 to client
+20200426 19:52:31.895 [servctl:INFO] main:866 
+20200426 19:52:31.898 [servctl:EROR] main:363 sending fd 12 to client
+20200426 20:58:41.955 [servctl:INFO] main:866 
+20200426 20:58:41.956 [servctl:EROR] main:363 sending fd 12 to client
+20200426 22:13:21.896 [servctl:INFO] main:866 
+20200426 22:13:21.921 [servctl:EROR] main:363 sending fd 12 to client
+20200426 23:13:31.881 [servctl:INFO] main:866 
+20200426 23:13:31.883 [servctl:EROR] main:363 sending fd 12 to client
+20200427 00:40:23.315 [servctl:INFO] main:866 
+20200427 00:40:23.328 [servctl:EROR] main:363 sending fd 12 to client
+20200427 01:40:23.413 [servctl:INFO] main:866 
+20200427 01:40:23.416 [servctl:EROR] main:363 sending fd 12 to client
+20200427 03:06:46.494 [servctl:INFO] main:866 
+20200427 03:06:46.502 [servctl:EROR] main:363 sending fd 12 to client
+20200427 04:06:46.972 [servctl:INFO] main:866 
+20200427 04:06:46.980 [servctl:EROR] main:363 sending fd 12 to client
+20200427 05:06:47.240 [servctl:INFO] main:866 
+20200427 05:06:47.242 [servctl:EROR] main:363 sending fd 12 to client
+20200427 06:22:50.600 [servctl:INFO] main:866 
+20200427 06:22:50.613 [servctl:EROR] main:363 sending fd 12 to client
+20200427 07:22:51.057 [servctl:INFO] main:866 
+20200427 07:22:51.060 [servctl:EROR] main:363 sending fd 12 to client
+20200427 08:22:51.804 [servctl:INFO] main:866 
+20200427 08:22:51.819 [servctl:EROR] main:363 sending fd 12 to client
+20200427 09:22:51.910 [servctl:INFO] main:866 
+20200427 09:22:51.924 [servctl:EROR] main:363 sending fd 12 to client
+20200427 09:22:51.930 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200427 10:22:52.016 [servctl:INFO] main:866 
+20200427 10:22:52.018 [servctl:EROR] main:363 sending fd 12 to client
+20200427 11:22:52.127 [servctl:INFO] main:866 
+20200427 11:22:52.130 [servctl:EROR] main:363 sending fd 12 to client
+20200427 11:23:52.776 [servctl:INFO] main:1613 all services left , so quit
+20200427 11:23:52.781 [servctl:INFO] main:103 start to force services to quit
+20200427 11:23:52.783 [servctl.log:INFO] predefine_services:369 stop CredentialStore Agent
+20200427 11:23:52.783 [servctl.log:INFO] predefine_services:382 stop VPNControl Agent
+20200427 11:23:52.783 [servctl.log:INFO] predefine_services:340 unload fsso daemon
+20200427 11:23:52.782 [servctl.log:INFO] predefine_services:195 stop webfilter service
+20200427 11:23:52.783 [servctl.log:INFO] predefine_services:356 stop FSSO Agent
+20200427 11:23:52.783 [servctl:INFO] main:1640 Service controller quit with return value 0
+20200427 11:25:23.499 [servctl:INFO] main:1528 Service controller started
+20200427 11:25:30.048 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 563
+20200427 11:25:30.179 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 563
+20200427 11:25:30.270 [servctl:INFO] main:1613 all services left , so quit
+20200427 11:25:30.351 [servctl:INFO] main:103 start to force services to quit
+20200427 11:25:30.470 [servctl:INFO] main:1640 Service controller quit with return value 0
+20200427 11:25:30.472 [servctl.log:INFO] predefine_services:195 stop webfilter service
+20200427 11:25:30.478 [servctl.log:INFO] predefine_services:340 unload fsso daemon
+20200427 11:25:30.477 [servctl.log:INFO] predefine_services:356 stop FSSO Agent
+20200427 11:25:30.478 [servctl.log:INFO] predefine_services:369 stop CredentialStore Agent
+20200427 11:25:31.458 [servctl:INFO] main:1528 Service controller started
+20200427 11:25:39.163 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 563
+20200427 11:25:39.392 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 563
+20200427 11:25:39.541 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 563
+20200427 11:25:40.982 [servctl:INFO] main:217 notification socket of service (262144, unknown service) registered successfully. pid = 687
+20200427 11:25:43.279 [servctl:INFO] main:217 notification socket of service (8192, misc agent) registered successfully. pid = 688
+20200427 11:25:47.183 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 703
+20200427 12:45:02.825 [servctl:INFO] main:866 
+20200427 12:45:02.832 [servctl:EROR] main:363 sending fd 12 to client
+20200427 13:45:02.830 [servctl:INFO] main:866 
+20200427 13:45:02.838 [servctl:EROR] main:363 sending fd 12 to client
+20200427 14:45:02.846 [servctl:INFO] main:866 
+20200427 14:45:02.848 [servctl:EROR] main:363 sending fd 12 to client
+20200427 15:45:11.623 [servctl:INFO] main:866 
+20200427 15:45:11.626 [servctl:EROR] main:363 sending fd 12 to client
+20200427 15:57:11.621 [servctl:EROR] main:363 sending fd 12 to client
+20200427 16:45:11.634 [servctl:INFO] main:866 
+20200427 16:45:11.636 [servctl:EROR] main:363 sending fd 12 to client
+20200427 17:45:39.290 [servctl:INFO] main:866 
+20200427 17:45:39.296 [servctl:EROR] main:363 sending fd 12 to client
+20200427 18:30:42.638 [servctl:EROR] main:363 sending fd 12 to client
+20200427 18:45:42.484 [servctl:INFO] main:866 
+20200427 18:45:42.507 [servctl:EROR] main:363 sending fd 12 to client
+20200427 21:28:43.426 [servctl:INFO] main:866 
+20200427 21:28:43.432 [servctl:EROR] main:363 sending fd 12 to client
+20200428 08:01:13.055 [servctl:INFO] main:866 
+20200428 08:01:13.110 [servctl:EROR] main:363 sending fd 12 to client
+20200428 09:01:13.727 [servctl:INFO] main:866 
+20200428 09:01:13.735 [servctl:EROR] main:363 sending fd 12 to client
+20200428 10:01:13.743 [servctl:INFO] main:866 
+20200428 10:01:13.752 [servctl:EROR] main:363 sending fd 12 to client
+20200428 11:01:47.440 [servctl:INFO] main:866 
+20200428 11:01:47.443 [servctl:EROR] main:363 sending fd 12 to client
+20200428 12:22:11.979 [servctl:INFO] main:866 
+20200428 12:22:11.985 [servctl:EROR] main:363 sending fd 12 to client
+20200428 13:22:42.938 [servctl:INFO] main:866 
+20200428 13:22:42.941 [servctl:EROR] main:363 sending fd 12 to client
+20200428 14:22:42.951 [servctl:INFO] main:866 
+20200428 14:22:42.954 [servctl:EROR] main:363 sending fd 12 to client
+20200428 15:22:42.966 [servctl:INFO] main:866 
+20200428 15:22:42.969 [servctl:EROR] main:363 sending fd 12 to client
+20200428 15:57:42.969 [servctl:EROR] main:363 sending fd 12 to client
+20200428 16:22:42.985 [servctl:INFO] main:866 
+20200428 16:22:42.988 [servctl:EROR] main:363 sending fd 12 to client
+20200428 17:29:17.764 [servctl:INFO] main:866 
+20200428 17:29:17.775 [servctl:EROR] main:363 sending fd 12 to client
+20200428 18:29:17.760 [servctl:INFO] main:866 
+20200428 18:29:17.763 [servctl:EROR] main:363 sending fd 12 to client
+20200429 00:12:18.426 [servctl:INFO] main:866 
+20200429 00:12:18.444 [servctl:EROR] main:363 sending fd 12 to client
+20200429 07:51:04.883 [servctl:INFO] main:866 
+20200429 07:51:04.900 [servctl:EROR] main:363 sending fd 12 to client
+20200429 08:51:04.893 [servctl:INFO] main:866 
+20200429 08:51:04.907 [servctl:EROR] main:363 sending fd 12 to client
+20200429 09:51:04.900 [servctl:INFO] main:866 
+20200429 09:51:04.903 [servctl:EROR] main:363 sending fd 12 to client
+20200429 10:51:04.916 [servctl:INFO] main:866 
+20200429 10:51:04.919 [servctl:EROR] main:363 sending fd 12 to client
+20200429 11:51:04.936 [servctl:INFO] main:866 
+20200429 11:51:04.950 [servctl:EROR] main:363 sending fd 12 to client
+20200429 11:52:54.270 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 9109
+20200429 11:55:10.546 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 9121
+20200429 11:56:40.406 [servctl:INFO] main:217 notification socket of service (4, main gui) registered successfully. pid = 9131
+20200429 11:58:46.010 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 9147
+20200429 11:58:52.357 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 9157
+20200429 12:51:31.996 [servctl:INFO] main:866 
+20200429 12:51:31.999 [servctl:EROR] main:363 sending fd 14 to client
+20200429 13:24:10.744 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 9827
+20200429 13:24:16.767 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 9836
+20200429 13:51:56.282 [servctl:INFO] main:866 
+20200429 13:51:56.285 [servctl:EROR] main:363 sending fd 14 to client
+20200429 14:51:56.295 [servctl:INFO] main:866 
+20200429 14:51:56.298 [servctl:EROR] main:363 sending fd 14 to client
+20200429 15:51:56.315 [servctl:INFO] main:866 
+20200429 15:51:56.318 [servctl:EROR] main:363 sending fd 14 to client
+20200429 15:57:56.306 [servctl:EROR] main:363 sending fd 15 to client
+20200429 16:51:56.319 [servctl:INFO] main:866 
+20200429 16:51:56.322 [servctl:EROR] main:363 sending fd 14 to client
+20200429 18:24:07.162 [servctl:INFO] main:866 
+20200429 18:24:07.180 [servctl:EROR] main:363 sending fd 14 to client
+20200429 19:25:00.432 [servctl:INFO] main:866 
+20200429 19:25:00.450 [servctl:EROR] main:363 sending fd 14 to client
+20200430 00:04:28.865 [servctl:INFO] main:866 
+20200430 00:04:28.963 [servctl:EROR] main:363 sending fd 14 to client
+20200430 07:59:26.723 [servctl:INFO] main:866 
+20200430 07:59:26.742 [servctl:EROR] main:363 sending fd 14 to client
+20200430 08:59:26.741 [servctl:INFO] main:866 
+20200430 08:59:26.743 [servctl:EROR] main:363 sending fd 14 to client
+20200430 09:59:26.754 [servctl:INFO] main:866 
+20200430 09:59:26.757 [servctl:EROR] main:363 sending fd 14 to client
+20200430 10:59:26.773 [servctl:INFO] main:866 
+20200430 10:59:26.775 [servctl:EROR] main:363 sending fd 14 to client
+20200430 11:59:26.792 [servctl:INFO] main:866 
+20200430 11:59:26.805 [servctl:EROR] main:363 sending fd 14 to client
+20200430 12:59:26.804 [servctl:INFO] main:866 
+20200430 12:59:26.807 [servctl:EROR] main:363 sending fd 14 to client
+20200430 13:59:26.816 [servctl:INFO] main:866 
+20200430 13:59:26.831 [servctl:EROR] main:363 sending fd 14 to client
+20200430 14:59:26.841 [servctl:INFO] main:866 
+20200430 14:59:26.859 [servctl:EROR] main:363 sending fd 14 to client
+20200430 15:58:26.848 [servctl:EROR] main:363 sending fd 14 to client
+20200430 15:59:26.855 [servctl:INFO] main:866 
+20200430 15:59:26.868 [servctl:EROR] main:363 sending fd 14 to client
+20200430 17:36:43.968 [servctl:INFO] main:866 
+20200430 17:36:43.983 [servctl:EROR] main:363 sending fd 14 to client
+20200501 00:06:30.526 [servctl:INFO] main:866 
+20200501 00:06:30.559 [servctl:EROR] main:363 sending fd 14 to client
+20200501 04:24:52.961 [servctl:INFO] main:866 
+20200501 04:24:52.984 [servctl:EROR] main:363 sending fd 14 to client
+20200501 07:43:19.022 [servctl:INFO] main:866 
+20200501 07:43:19.059 [servctl:EROR] main:363 sending fd 14 to client
+20200501 08:43:20.726 [servctl:INFO] main:866 
+20200501 08:43:20.739 [servctl:EROR] main:363 sending fd 14 to client
+20200501 08:43:20.758 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200501 09:43:20.739 [servctl:INFO] main:866 
+20200501 09:43:20.742 [servctl:EROR] main:363 sending fd 14 to client
+20200501 10:43:20.754 [servctl:INFO] main:866 
+20200501 10:43:20.757 [servctl:EROR] main:363 sending fd 14 to client
+20200501 11:43:20.769 [servctl:INFO] main:866 
+20200501 11:43:20.771 [servctl:EROR] main:363 sending fd 14 to client
+20200501 12:43:44.291 [servctl:INFO] main:866 
+20200501 12:43:44.294 [servctl:EROR] main:363 sending fd 14 to client
+20200501 13:43:44.305 [servctl:INFO] main:866 
+20200501 13:43:44.308 [servctl:EROR] main:363 sending fd 14 to client
+20200501 14:43:44.321 [servctl:INFO] main:866 
+20200501 14:43:44.335 [servctl:EROR] main:363 sending fd 14 to client
+20200501 15:43:44.336 [servctl:INFO] main:866 
+20200501 15:43:44.351 [servctl:EROR] main:363 sending fd 14 to client
+20200501 15:58:44.330 [servctl:EROR] main:363 sending fd 14 to client
+20200501 17:16:16.232 [servctl:INFO] main:866 
+20200501 17:16:16.241 [servctl:EROR] main:363 sending fd 14 to client
+20200501 21:17:16.521 [servctl:INFO] main:866 
+20200501 21:17:16.541 [servctl:EROR] main:363 sending fd 14 to client
+20200502 04:04:48.698 [servctl:INFO] main:866 
+20200502 04:04:48.736 [servctl:EROR] main:363 sending fd 14 to client
+20200502 07:53:12.517 [servctl:INFO] main:866 
+20200502 07:53:12.543 [servctl:EROR] main:363 sending fd 14 to client
+20200502 08:53:12.465 [servctl:INFO] main:866 
+20200502 08:53:12.472 [servctl:EROR] main:363 sending fd 14 to client
+20200502 10:59:22.117 [servctl:INFO] main:866 
+20200502 10:59:22.144 [servctl:EROR] main:363 sending fd 14 to client
+20200502 11:59:22.159 [servctl:INFO] main:866 
+20200502 11:59:22.171 [servctl:EROR] main:363 sending fd 14 to client
+20200502 12:59:22.155 [servctl:INFO] main:866 
+20200502 12:59:22.158 [servctl:EROR] main:363 sending fd 14 to client
+20200502 13:59:22.164 [servctl:INFO] main:866 
+20200502 13:59:22.167 [servctl:EROR] main:363 sending fd 14 to client
+20200502 20:04:56.278 [servctl:INFO] main:866 
+20200502 20:04:56.291 [servctl:EROR] main:363 sending fd 14 to client
+20200503 07:22:39.470 [servctl:INFO] main:866 
+20200503 07:22:39.485 [servctl:EROR] main:363 sending fd 14 to client
+20200503 08:23:21.458 [servctl:INFO] main:866 
+20200503 08:23:21.465 [servctl:EROR] main:363 sending fd 14 to client
+20200503 11:01:09.021 [servctl:INFO] main:866 
+20200503 11:01:09.037 [servctl:EROR] main:363 sending fd 14 to client
+20200503 12:01:43.247 [servctl:INFO] main:866 
+20200503 12:01:43.254 [servctl:EROR] main:363 sending fd 14 to client
+20200503 13:26:33.681 [servctl:INFO] main:866 
+20200503 13:26:33.696 [servctl:EROR] main:363 sending fd 14 to client
+20200503 15:31:13.151 [servctl:INFO] main:866 
+20200503 15:31:13.169 [servctl:EROR] main:363 sending fd 14 to client
+20200504 03:49:59.803 [servctl:INFO] main:866 
+20200504 03:49:59.896 [servctl:EROR] main:363 sending fd 15 to client
+20200504 07:45:32.220 [servctl:INFO] main:866 
+20200504 07:45:32.242 [servctl:EROR] main:363 sending fd 14 to client
+20200504 08:45:32.228 [servctl:INFO] main:866 
+20200504 08:45:32.233 [servctl:EROR] main:363 sending fd 14 to client
+20200504 09:45:32.243 [servctl:INFO] main:866 
+20200504 09:45:32.246 [servctl:EROR] main:363 sending fd 14 to client
+20200504 10:45:32.258 [servctl:INFO] main:866 
+20200504 10:45:32.262 [servctl:EROR] main:363 sending fd 14 to client
+20200504 11:45:32.276 [servctl:INFO] main:866 
+20200504 11:45:32.279 [servctl:EROR] main:363 sending fd 14 to client
+20200504 12:48:08.118 [servctl:INFO] main:866 
+20200504 12:48:08.146 [servctl:EROR] main:363 sending fd 14 to client
+20200504 13:48:08.128 [servctl:INFO] main:866 
+20200504 13:48:08.131 [servctl:EROR] main:363 sending fd 14 to client
+20200504 14:48:08.143 [servctl:INFO] main:866 
+20200504 14:48:08.147 [servctl:EROR] main:363 sending fd 14 to client
+20200504 14:54:11.270 [servctl:EROR] main:363 sending fd 14 to client
+20200504 14:54:11.879 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 20093
+20200504 14:54:18.037 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 20099
+20200504 15:48:08.157 [servctl:INFO] main:866 
+20200504 15:48:08.172 [servctl:EROR] main:363 sending fd 18 to client
+20200504 16:48:08.174 [servctl:INFO] main:866 
+20200504 16:48:08.178 [servctl:EROR] main:363 sending fd 14 to client
+20200504 17:51:05.023 [servctl:INFO] main:866 
+20200504 17:51:05.075 [servctl:EROR] main:363 sending fd 14 to client
+20200504 18:30:23.238 [servctl:EROR] main:363 sending fd 14 to client
+20200504 19:15:38.451 [servctl:INFO] main:866 
+20200504 19:15:38.467 [servctl:EROR] main:363 sending fd 14 to client
+20200504 20:24:39.532 [servctl:INFO] main:866 
+20200504 20:24:39.551 [servctl:EROR] main:363 sending fd 14 to client
+20200504 21:28:06.485 [servctl:INFO] main:866 
+20200504 21:28:06.493 [servctl:EROR] main:363 sending fd 14 to client
+20200505 03:55:36.969 [servctl:INFO] main:866 
+20200505 03:55:36.983 [servctl:EROR] main:363 sending fd 14 to client
+20200505 07:45:17.617 [servctl:INFO] main:866 
+20200505 07:45:17.763 [servctl:EROR] main:363 sending fd 14 to client
+20200505 08:45:17.615 [servctl:INFO] main:866 
+20200505 08:45:17.636 [servctl:EROR] main:363 sending fd 14 to client
+20200505 09:45:17.623 [servctl:INFO] main:866 
+20200505 09:45:17.626 [servctl:EROR] main:363 sending fd 14 to client
+20200505 10:45:17.647 [servctl:INFO] main:866 
+20200505 10:45:17.650 [servctl:EROR] main:363 sending fd 14 to client
+20200505 11:45:17.684 [servctl:INFO] main:866 
+20200505 11:45:17.689 [servctl:EROR] main:363 sending fd 14 to client
+20200505 12:56:09.986 [servctl:INFO] main:866 
+20200505 12:56:10.000 [servctl:EROR] main:363 sending fd 14 to client
+20200505 13:56:09.990 [servctl:INFO] main:866 
+20200505 13:56:10.011 [servctl:EROR] main:363 sending fd 14 to client
+20200505 14:56:09.988 [servctl:INFO] main:866 
+20200505 14:56:10.008 [servctl:EROR] main:363 sending fd 14 to client
+20200505 15:56:09.999 [servctl:INFO] main:866 
+20200505 15:56:10.006 [servctl:EROR] main:363 sending fd 14 to client
+20200505 16:56:10.035 [servctl:INFO] main:866 
+20200505 16:56:10.043 [servctl:EROR] main:363 sending fd 14 to client
+20200505 16:56:10.045 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200505 18:22:42.548 [servctl:INFO] main:866 
+20200505 18:22:42.563 [servctl:EROR] main:363 sending fd 14 to client
+20200505 19:23:12.343 [servctl:INFO] main:866 
+20200505 19:23:12.357 [servctl:EROR] main:363 sending fd 14 to client
+20200505 20:40:10.415 [servctl:INFO] main:866 
+20200505 20:40:10.448 [servctl:EROR] main:363 sending fd 14 to client
+20200505 22:13:25.002 [servctl:INFO] main:866 
+20200505 22:13:25.036 [servctl:EROR] main:363 sending fd 14 to client
+20200505 23:35:13.565 [servctl:INFO] main:866 
+20200505 23:35:13.577 [servctl:EROR] main:363 sending fd 14 to client
+20200506 00:42:29.105 [servctl:INFO] main:866 
+20200506 00:42:29.123 [servctl:EROR] main:363 sending fd 14 to client
+20200506 02:10:24.334 [servctl:INFO] main:866 
+20200506 02:10:24.338 [servctl:EROR] main:363 sending fd 14 to client
+20200506 03:37:40.761 [servctl:INFO] main:866 
+20200506 03:37:40.781 [servctl:EROR] main:363 sending fd 14 to client
+20200506 04:42:33.625 [servctl:INFO] main:866 
+20200506 04:42:33.646 [servctl:EROR] main:363 sending fd 14 to client
+20200506 06:10:27.339 [servctl:INFO] main:866 
+20200506 06:10:27.355 [servctl:EROR] main:363 sending fd 14 to client
+20200506 07:49:18.206 [servctl:INFO] main:866 
+20200506 07:49:18.226 [servctl:EROR] main:363 sending fd 14 to client
+20200506 08:49:18.273 [servctl:INFO] main:866 
+20200506 08:49:18.277 [servctl:EROR] main:363 sending fd 14 to client
+20200506 09:49:18.273 [servctl:INFO] main:866 
+20200506 09:49:18.278 [servctl:EROR] main:363 sending fd 14 to client
+20200506 09:49:18.306 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200506 10:49:18.302 [servctl:INFO] main:866 
+20200506 10:49:18.315 [servctl:EROR] main:363 sending fd 14 to client
+20200506 12:21:34.457 [servctl:INFO] main:866 
+20200506 12:21:34.468 [servctl:EROR] main:363 sending fd 14 to client
+20200506 13:21:34.507 [servctl:INFO] main:866 
+20200506 13:21:34.522 [servctl:EROR] main:363 sending fd 14 to client
+20200506 14:21:34.532 [servctl:INFO] main:866 
+20200506 14:21:34.546 [servctl:EROR] main:363 sending fd 14 to client
+20200506 15:21:34.580 [servctl:INFO] main:866 
+20200506 15:21:34.585 [servctl:EROR] main:363 sending fd 14 to client
+20200506 16:21:34.617 [servctl:INFO] main:866 
+20200506 16:21:34.631 [servctl:EROR] main:363 sending fd 14 to client
+20200506 17:21:35.957 [servctl:INFO] main:866 
+20200506 17:21:35.963 [servctl:EROR] main:363 sending fd 14 to client
+20200506 18:21:36.008 [servctl:INFO] main:866 
+20200506 18:21:36.014 [servctl:EROR] main:363 sending fd 14 to client
+20200506 19:21:36.047 [servctl:INFO] main:866 
+20200506 19:21:36.051 [servctl:EROR] main:363 sending fd 14 to client
+20200506 20:21:36.087 [servctl:INFO] main:866 
+20200506 20:21:36.091 [servctl:EROR] main:363 sending fd 14 to client
+20200507 07:45:10.252 [servctl:INFO] main:866 
+20200507 07:45:10.266 [servctl:EROR] main:363 sending fd 15 to client
+20200507 09:30:24.973 [servctl:INFO] main:866 
+20200507 09:30:25.243 [servctl:EROR] main:363 sending fd 14 to client
+20200507 10:30:24.535 [servctl:INFO] main:866 
+20200507 10:30:24.544 [servctl:EROR] main:363 sending fd 14 to client
+20200507 10:30:24.553 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200507 11:30:24.545 [servctl:INFO] main:866 
+20200507 11:30:24.549 [servctl:EROR] main:363 sending fd 14 to client
+20200507 12:30:45.948 [servctl:INFO] main:866 
+20200507 12:30:45.961 [servctl:EROR] main:363 sending fd 14 to client
+20200507 12:58:50.732 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 32192
+20200507 12:58:57.128 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 32206
+20200507 13:31:14.104 [servctl:INFO] main:866 
+20200507 13:31:14.109 [servctl:EROR] main:363 sending fd 14 to client
+20200507 14:31:14.117 [servctl:INFO] main:866 
+20200507 14:31:14.142 [servctl:EROR] main:363 sending fd 14 to client
+20200507 15:31:14.160 [servctl:INFO] main:866 
+20200507 15:31:14.200 [servctl:EROR] main:363 sending fd 14 to client
+20200507 15:31:14.205 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200507 15:49:30.338 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 33325
+20200507 15:49:36.711 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 33331
+20200507 16:31:14.176 [servctl:INFO] main:866 
+20200507 16:31:14.185 [servctl:EROR] main:363 sending fd 18 to client
+20200507 17:38:20.183 [servctl:INFO] main:866 
+20200507 17:38:20.202 [servctl:EROR] main:363 sending fd 14 to client
+20200507 19:51:23.874 [servctl:INFO] main:866 
+20200507 19:51:23.893 [servctl:EROR] main:363 sending fd 14 to client
+20200508 00:00:41.532 [servctl:INFO] main:866 
+20200508 00:00:41.541 [servctl:EROR] main:363 sending fd 14 to client
+20200508 07:59:26.728 [servctl:INFO] main:866 
+20200508 07:59:26.750 [servctl:EROR] main:363 sending fd 14 to client
+20200508 08:47:46.563 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 34483
+20200508 08:47:52.622 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 34491
+20200508 08:59:26.729 [servctl:INFO] main:866 
+20200508 08:59:26.743 [servctl:EROR] main:363 sending fd 18 to client
+20200508 09:59:49.182 [servctl:INFO] main:866 
+20200508 09:59:49.186 [servctl:EROR] main:363 sending fd 14 to client
+20200508 10:59:49.209 [servctl:INFO] main:866 
+20200508 10:59:49.226 [servctl:EROR] main:363 sending fd 14 to client
+20200508 12:27:13.617 [servctl:INFO] main:866 
+20200508 12:27:13.640 [servctl:EROR] main:363 sending fd 14 to client
+20200508 13:27:18.989 [servctl:INFO] main:866 
+20200508 13:27:18.993 [servctl:EROR] main:363 sending fd 14 to client
+20200508 14:27:19.002 [servctl:INFO] main:866 
+20200508 14:27:19.016 [servctl:EROR] main:363 sending fd 14 to client
+20200508 15:27:19.014 [servctl:INFO] main:866 
+20200508 15:27:19.018 [servctl:EROR] main:363 sending fd 14 to client
+20200508 16:27:19.036 [servctl:INFO] main:866 
+20200508 16:27:19.040 [servctl:EROR] main:363 sending fd 14 to client
+20200508 16:44:15.348 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 40795
+20200508 16:44:21.694 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 40803
+20200508 19:49:02.744 [servctl:INFO] main:866 
+20200508 19:49:02.764 [servctl:EROR] main:363 sending fd 14 to client
+20200509 07:45:07.229 [servctl:INFO] main:866 
+20200509 07:45:07.251 [servctl:EROR] main:363 sending fd 14 to client
+20200509 08:00:08.656 [servctl:EROR] main:363 sending fd 14 to client
+20200509 11:51:07.239 [servctl:INFO] main:866 
+20200509 11:51:07.262 [servctl:EROR] main:363 sending fd 14 to client
+20200509 19:09:20.554 [servctl:INFO] main:866 
+20200509 19:09:20.584 [servctl:EROR] main:363 sending fd 14 to client
+20200509 20:38:39.293 [servctl:INFO] main:866 
+20200509 20:38:39.301 [servctl:EROR] main:363 sending fd 14 to client
+20200509 21:51:55.577 [servctl:INFO] main:866 
+20200509 21:51:55.588 [servctl:EROR] main:363 sending fd 14 to client
+20200509 23:50:34.234 [servctl:INFO] main:866 
+20200509 23:50:34.244 [servctl:EROR] main:363 sending fd 14 to client
+20200510 01:01:22.780 [servctl:INFO] main:866 
+20200510 01:01:22.796 [servctl:EROR] main:363 sending fd 14 to client
+20200510 02:18:48.329 [servctl:INFO] main:866 
+20200510 02:18:48.346 [servctl:EROR] main:363 sending fd 14 to client
+20200510 03:34:57.561 [servctl:INFO] main:866 
+20200510 03:34:57.580 [servctl:EROR] main:363 sending fd 14 to client
+20200510 04:36:08.789 [servctl:INFO] main:866 
+20200510 04:36:08.822 [servctl:EROR] main:363 sending fd 14 to client
+20200510 07:51:24.479 [servctl:INFO] main:866 
+20200510 07:51:24.498 [servctl:EROR] main:363 sending fd 14 to client
+20200510 09:02:04.824 [servctl:INFO] main:866 
+20200510 09:02:04.833 [servctl:EROR] main:363 sending fd 14 to client
+20200510 10:02:38.470 [servctl:INFO] main:866 
+20200510 10:02:38.474 [servctl:EROR] main:363 sending fd 14 to client
+20200510 11:20:33.017 [servctl:INFO] main:866 
+20200510 11:20:33.036 [servctl:EROR] main:363 sending fd 14 to client
+20200510 15:09:04.179 [servctl:INFO] main:866 
+20200510 15:09:04.199 [servctl:EROR] main:363 sending fd 14 to client
+20200510 18:53:26.516 [servctl:INFO] main:866 
+20200510 18:53:26.540 [servctl:EROR] main:363 sending fd 14 to client
+20200510 20:01:03.336 [servctl:INFO] main:866 
+20200510 20:01:03.343 [servctl:EROR] main:363 sending fd 14 to client
+20200510 21:52:08.093 [servctl:INFO] main:866 
+20200510 21:52:08.096 [servctl:EROR] main:363 sending fd 14 to client
+20200510 22:52:13.905 [servctl:INFO] main:866 
+20200510 22:52:13.923 [servctl:EROR] main:363 sending fd 14 to client
+20200511 03:12:41.989 [servctl:INFO] main:866 
+20200511 03:12:42.041 [servctl:EROR] main:363 sending fd 14 to client
+20200511 07:45:39.919 [servctl:INFO] main:866 
+20200511 07:45:39.967 [servctl:EROR] main:363 sending fd 14 to client
+20200511 08:45:40.011 [servctl:INFO] main:866 
+20200511 08:45:40.019 [servctl:EROR] main:363 sending fd 14 to client
+20200511 09:02:40.017 [servctl:EROR] main:363 sending fd 14 to client
+20200511 09:45:40.103 [servctl:INFO] main:866 
+20200511 09:45:40.107 [servctl:EROR] main:363 sending fd 14 to client
+20200511 10:45:50.330 [servctl:INFO] main:866 
+20200511 10:45:50.338 [servctl:EROR] main:363 sending fd 14 to client
+20200511 11:45:50.438 [servctl:INFO] main:866 
+20200511 11:45:50.460 [servctl:EROR] main:363 sending fd 14 to client
+20200511 11:45:50.475 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200511 12:59:11.403 [servctl:INFO] main:866 
+20200511 12:59:11.419 [servctl:EROR] main:363 sending fd 14 to client
+20200511 13:56:44.913 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 46260
+20200511 13:56:51.338 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 46268
+20200511 13:59:11.504 [servctl:INFO] main:866 
+20200511 13:59:11.524 [servctl:EROR] main:363 sending fd 18 to client
+20200511 14:59:11.609 [servctl:INFO] main:866 
+20200511 14:59:11.612 [servctl:EROR] main:363 sending fd 18 to client
+20200511 15:59:11.737 [servctl:INFO] main:866 
+20200511 15:59:11.764 [servctl:EROR] main:363 sending fd 18 to client
+20200511 16:59:11.852 [servctl:INFO] main:866 
+20200511 16:59:11.860 [servctl:EROR] main:363 sending fd 18 to client
+20200511 19:03:50.298 [servctl:INFO] main:866 
+20200511 19:03:50.308 [servctl:EROR] main:363 sending fd 14 to client
+20200511 20:16:55.478 [servctl:INFO] main:866 
+20200511 20:16:55.496 [servctl:EROR] main:363 sending fd 14 to client
+20200511 21:16:55.582 [servctl:INFO] main:866 
+20200511 21:16:55.601 [servctl:EROR] main:363 sending fd 14 to client
+20200512 07:27:26.645 [servctl:INFO] main:866 
+20200512 07:27:26.670 [servctl:EROR] main:363 sending fd 14 to client
+20200512 08:27:48.310 [servctl:INFO] main:866 
+20200512 08:27:48.315 [servctl:EROR] main:363 sending fd 14 to client
+20200512 09:02:48.338 [servctl:EROR] main:363 sending fd 14 to client
+20200512 09:27:48.403 [servctl:INFO] main:866 
+20200512 09:27:48.408 [servctl:EROR] main:363 sending fd 14 to client
+20200512 09:53:07.774 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 47694
+20200512 09:53:14.743 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 47700
+20200512 10:50:38.261 [servctl:INFO] main:866 
+20200512 10:50:38.283 [servctl:EROR] main:363 sending fd 14 to client
+20200512 12:09:55.957 [servctl:INFO] main:866 
+20200512 12:09:55.969 [servctl:EROR] main:363 sending fd 14 to client
+20200512 13:09:57.870 [servctl:INFO] main:866 
+20200512 13:09:57.892 [servctl:EROR] main:363 sending fd 14 to client
+20200512 14:10:02.365 [servctl:INFO] main:866 
+20200512 14:10:02.510 [servctl:EROR] main:363 sending fd 14 to client
+20200512 14:10:02.542 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200512 15:11:01.952 [servctl:INFO] main:866 
+20200512 15:11:01.973 [servctl:EROR] main:363 sending fd 14 to client
+20200512 15:11:01.975 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200512 15:26:32.729 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 48895
+20200512 15:26:39.223 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 48902
+20200512 16:11:02.052 [servctl:INFO] main:866 
+20200512 16:11:02.057 [servctl:EROR] main:363 sending fd 18 to client
+20200512 17:34:54.581 [servctl:INFO] main:866 
+20200512 17:34:54.592 [servctl:EROR] main:363 sending fd 14 to client
+20200512 19:45:02.375 [servctl:INFO] main:866 
+20200512 19:45:02.386 [servctl:EROR] main:363 sending fd 14 to client
+20200512 21:02:32.969 [servctl:INFO] main:866 
+20200512 21:02:32.982 [servctl:EROR] main:363 sending fd 14 to client
+20200512 22:23:45.468 [servctl:INFO] main:866 
+20200512 22:23:45.472 [servctl:EROR] main:363 sending fd 14 to client
+20200512 23:55:42.604 [servctl:INFO] main:866 
+20200512 23:55:42.608 [servctl:EROR] main:363 sending fd 14 to client
+20200513 01:25:10.195 [servctl:INFO] main:866 
+20200513 01:25:10.206 [servctl:EROR] main:363 sending fd 14 to client
+20200513 04:15:47.618 [servctl:INFO] main:866 
+20200513 04:15:47.622 [servctl:EROR] main:363 sending fd 14 to client
+20200513 05:37:18.919 [servctl:INFO] main:866 
+20200513 05:37:18.927 [servctl:EROR] main:363 sending fd 14 to client
+20200513 06:46:52.245 [servctl:INFO] main:866 
+20200513 06:46:52.274 [servctl:EROR] main:363 sending fd 14 to client
+20200513 08:00:46.189 [servctl:INFO] main:866 
+20200513 08:00:46.194 [servctl:EROR] main:363 sending fd 14 to client
+20200513 08:34:35.474 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 50220
+20200513 08:34:41.404 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 50228
+20200513 09:00:51.519 [servctl:INFO] main:866 
+20200513 09:00:51.535 [servctl:EROR] main:363 sending fd 14 to client
+20200513 09:02:51.508 [servctl:EROR] main:363 sending fd 14 to client
+20200513 10:00:51.621 [servctl:INFO] main:866 
+20200513 10:00:51.627 [servctl:EROR] main:363 sending fd 14 to client
+20200513 11:01:03.370 [servctl:INFO] main:866 
+20200513 11:01:03.373 [servctl:EROR] main:363 sending fd 14 to client
+20200513 11:04:05.535 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 50846
+20200513 11:04:11.508 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 50853
+20200513 12:07:56.787 [servctl:INFO] main:866 
+20200513 12:07:56.804 [servctl:EROR] main:363 sending fd 14 to client
+20200513 12:22:49.030 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 51190
+20200513 12:22:54.935 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 51196
+20200513 13:08:45.220 [servctl:INFO] main:866 
+20200513 13:08:45.242 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200513 13:08:45.271 [servctl:EROR] main:363 sending fd 18 to client
+20200513 14:08:45.345 [servctl:INFO] main:866 
+20200513 14:08:45.353 [servctl:EROR] main:363 sending fd 18 to client
+20200513 15:08:45.442 [servctl:INFO] main:866 
+20200513 15:08:45.456 [servctl:EROR] main:363 sending fd 18 to client
+20200513 16:08:45.537 [servctl:INFO] main:866 
+20200513 16:08:45.541 [servctl:EROR] main:363 sending fd 18 to client
+20200513 17:45:34.576 [servctl:INFO] main:866 
+20200513 17:45:34.617 [servctl:EROR] main:363 sending fd 14 to client
+20200513 19:50:55.627 [servctl:INFO] main:866 
+20200513 19:50:55.638 [servctl:EROR] main:363 sending fd 14 to client
+20200513 20:53:57.998 [servctl:INFO] main:866 
+20200513 20:53:58.005 [servctl:EROR] main:363 sending fd 14 to client
+20200513 21:54:17.714 [servctl:INFO] main:866 
+20200513 21:54:17.727 [servctl:EROR] main:363 sending fd 14 to client
+20200513 23:26:45.924 [servctl:INFO] main:866 
+20200513 23:26:45.927 [servctl:EROR] main:363 sending fd 14 to client
+20200514 01:14:57.573 [servctl:INFO] main:866 
+20200514 01:14:57.576 [servctl:EROR] main:363 sending fd 14 to client
+20200514 04:50:20.309 [servctl:INFO] main:866 
+20200514 04:50:20.327 [servctl:EROR] main:363 sending fd 14 to client
+20200514 06:38:31.743 [servctl:INFO] main:866 
+20200514 06:38:31.759 [servctl:EROR] main:363 sending fd 14 to client
+20200514 08:05:52.780 [servctl:INFO] main:866 
+20200514 08:05:52.800 [servctl:EROR] main:363 sending fd 14 to client
+20200514 09:02:52.877 [servctl:EROR] main:363 sending fd 14 to client
+20200514 09:05:52.903 [servctl:INFO] main:866 
+20200514 09:05:52.917 [servctl:EROR] main:363 sending fd 14 to client
+20200514 10:05:53.000 [servctl:INFO] main:866 
+20200514 10:05:53.005 [servctl:EROR] main:363 sending fd 14 to client
+20200514 11:05:53.102 [servctl:INFO] main:866 
+20200514 11:05:53.106 [servctl:EROR] main:363 sending fd 14 to client
+20200514 12:05:53.216 [servctl:INFO] main:866 
+20200514 12:05:53.232 [servctl:EROR] main:363 sending fd 14 to client
+20200514 13:05:53.323 [servctl:INFO] main:866 
+20200514 13:05:53.326 [servctl:EROR] main:363 sending fd 14 to client
+20200514 14:05:53.432 [servctl:INFO] main:866 
+20200514 14:05:53.438 [servctl:EROR] main:363 sending fd 14 to client
+20200514 15:05:53.539 [servctl:INFO] main:866 
+20200514 15:05:53.543 [servctl:EROR] main:363 sending fd 14 to client
+20200514 16:05:53.657 [servctl:INFO] main:866 
+20200514 16:05:53.661 [servctl:EROR] main:363 sending fd 14 to client
+20200514 17:21:07.036 [servctl:INFO] main:866 
+20200514 17:21:07.060 [servctl:EROR] main:363 sending fd 14 to client
+20200514 18:40:27.325 [servctl:INFO] main:866 
+20200514 18:40:27.353 [servctl:EROR] main:363 sending fd 14 to client
+20200514 19:40:40.319 [servctl:INFO] main:866 
+20200514 19:40:40.326 [servctl:EROR] main:363 sending fd 14 to client
+20200514 20:40:59.323 [servctl:INFO] main:866 
+20200514 20:40:59.342 [servctl:EROR] main:363 sending fd 14 to client
+20200514 22:00:23.609 [servctl:INFO] main:866 
+20200514 22:00:23.613 [servctl:EROR] main:363 sending fd 14 to client
+20200514 23:00:34.846 [servctl:INFO] main:866 
+20200514 23:00:34.857 [servctl:EROR] main:363 sending fd 14 to client
+20200515 00:00:51.413 [servctl:INFO] main:866 
+20200515 00:00:51.422 [servctl:EROR] main:363 sending fd 14 to client
+20200515 01:01:12.125 [servctl:INFO] main:866 
+20200515 01:01:12.148 [servctl:EROR] main:363 sending fd 14 to client
+20200515 02:20:25.300 [servctl:INFO] main:866 
+20200515 02:20:25.314 [servctl:EROR] main:363 sending fd 14 to client
+20200515 03:20:41.209 [servctl:INFO] main:866 
+20200515 03:20:41.226 [servctl:EROR] main:363 sending fd 14 to client
+20200515 04:20:56.502 [servctl:INFO] main:866 
+20200515 04:20:56.525 [servctl:EROR] main:363 sending fd 14 to client
+20200515 05:40:21.048 [servctl:INFO] main:866 
+20200515 05:40:21.095 [servctl:EROR] main:363 sending fd 14 to client
+20200515 06:40:39.339 [servctl:INFO] main:866 
+20200515 06:40:39.357 [servctl:EROR] main:363 sending fd 14 to client
+20200515 07:40:39.679 [servctl:INFO] main:866 
+20200515 07:40:39.694 [servctl:EROR] main:363 sending fd 14 to client
+20200515 08:40:39.783 [servctl:INFO] main:866 
+20200515 08:40:39.803 [servctl:EROR] main:363 sending fd 14 to client
+20200515 09:03:39.816 [servctl:EROR] main:363 sending fd 15 to client
+20200515 09:41:03.657 [servctl:INFO] main:866 
+20200515 09:41:03.665 [servctl:EROR] main:363 sending fd 14 to client
+20200515 10:41:03.774 [servctl:INFO] main:866 
+20200515 10:41:03.813 [servctl:EROR] main:363 sending fd 14 to client
+20200515 11:35:04.887 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 60545
+20200515 11:35:11.297 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 60552
+20200515 11:40:06.387 [servctl:EROR] main:363 sending fd 14 to client
+20200515 11:40:06.914 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 69758
+20200515 11:40:13.092 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 69765
+20200515 11:41:03.850 [servctl:INFO] main:866 
+20200515 11:41:03.871 [servctl:EROR] main:363 sending fd 18 to client
+20200515 12:41:03.957 [servctl:INFO] main:866 
+20200515 12:41:03.962 [servctl:EROR] main:363 sending fd 18 to client
+20200515 12:41:03.978 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200515 13:41:04.093 [servctl:INFO] main:866 
+20200515 13:41:04.116 [servctl:EROR] main:363 sending fd 18 to client
+20200515 14:41:04.195 [servctl:INFO] main:866 
+20200515 14:41:04.203 [servctl:EROR] main:363 sending fd 18 to client
+20200515 14:41:04.242 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200515 15:41:04.303 [servctl:INFO] main:866 
+20200515 15:41:04.309 [servctl:EROR] main:363 sending fd 18 to client
+20200515 16:41:04.386 [servctl:INFO] main:866 
+20200515 16:41:04.392 [servctl:EROR] main:363 sending fd 18 to client
+20200515 18:00:32.634 [servctl:INFO] main:866 
+20200515 18:00:32.652 [servctl:EROR] main:363 sending fd 14 to client
+20200515 19:00:51.842 [servctl:INFO] main:866 
+20200515 19:00:51.849 [servctl:EROR] main:363 sending fd 14 to client
+20200515 20:01:04.090 [servctl:INFO] main:866 
+20200515 20:01:04.119 [servctl:EROR] main:363 sending fd 14 to client
+20200515 21:20:17.957 [servctl:INFO] main:866 
+20200515 21:20:18.008 [servctl:EROR] main:363 sending fd 14 to client
+20200515 22:20:33.978 [servctl:INFO] main:866 
+20200515 22:20:33.989 [servctl:EROR] main:363 sending fd 14 to client
+20200515 23:20:50.308 [servctl:INFO] main:866 
+20200515 23:20:50.325 [servctl:EROR] main:363 sending fd 14 to client
+20200516 00:21:06.167 [servctl:INFO] main:866 
+20200516 00:21:06.174 [servctl:EROR] main:363 sending fd 14 to client
+20200516 01:40:27.305 [servctl:INFO] main:866 
+20200516 01:40:27.335 [servctl:EROR] main:363 sending fd 14 to client
+20200516 02:40:44.218 [servctl:INFO] main:866 
+20200516 02:40:44.224 [servctl:EROR] main:363 sending fd 14 to client
+20200516 03:40:59.121 [servctl:INFO] main:866 
+20200516 03:40:59.131 [servctl:EROR] main:363 sending fd 14 to client
+20200516 05:00:22.250 [servctl:INFO] main:866 
+20200516 05:00:22.260 [servctl:EROR] main:363 sending fd 14 to client
+20200516 06:00:41.094 [servctl:INFO] main:866 
+20200516 06:00:41.126 [servctl:EROR] main:363 sending fd 14 to client
+20200516 07:00:55.839 [servctl:INFO] main:866 
+20200516 07:00:55.846 [servctl:EROR] main:363 sending fd 14 to client
+20200516 08:00:55.946 [servctl:INFO] main:866 
+20200516 08:00:55.951 [servctl:EROR] main:363 sending fd 14 to client
+20200516 09:00:56.059 [servctl:INFO] main:866 
+20200516 09:00:56.065 [servctl:EROR] main:363 sending fd 14 to client
+20200516 09:03:56.052 [servctl:EROR] main:363 sending fd 14 to client
+20200516 10:20:17.105 [servctl:INFO] main:866 
+20200516 10:20:17.339 [servctl:EROR] main:363 sending fd 14 to client
+20200516 11:20:31.511 [servctl:INFO] main:866 
+20200516 11:20:31.651 [servctl:EROR] main:363 sending fd 14 to client
+20200516 12:20:46.727 [servctl:INFO] main:866 
+20200516 12:20:46.736 [servctl:EROR] main:363 sending fd 14 to client
+20200516 13:40:25.629 [servctl:INFO] main:866 
+20200516 13:40:25.634 [servctl:EROR] main:363 sending fd 14 to client
+20200516 14:40:42.646 [servctl:INFO] main:866 
+20200516 14:40:42.661 [servctl:EROR] main:363 sending fd 14 to client
+20200516 15:40:59.399 [servctl:INFO] main:866 
+20200516 15:40:59.427 [servctl:EROR] main:363 sending fd 14 to client
+20200516 17:00:20.075 [servctl:INFO] main:866 
+20200516 17:00:20.080 [servctl:EROR] main:363 sending fd 14 to client
+20200516 18:00:37.133 [servctl:INFO] main:866 
+20200516 18:00:37.152 [servctl:EROR] main:363 sending fd 14 to client
+20200516 19:01:20.589 [servctl:INFO] main:866 
+20200516 19:01:20.612 [servctl:EROR] main:363 sending fd 14 to client
+20200516 20:01:27.467 [servctl:INFO] main:866 
+20200516 20:01:27.524 [servctl:EROR] main:363 sending fd 14 to client
+20200516 21:20:10.946 [servctl:INFO] main:866 
+20200516 21:20:10.971 [servctl:EROR] main:363 sending fd 14 to client
+20200516 22:20:57.134 [servctl:INFO] main:866 
+20200516 22:20:57.151 [servctl:EROR] main:363 sending fd 14 to client
+20200516 23:40:18.558 [servctl:INFO] main:866 
+20200516 23:40:18.634 [servctl:EROR] main:363 sending fd 14 to client
+20200517 00:40:35.281 [servctl:INFO] main:866 
+20200517 00:40:35.295 [servctl:EROR] main:363 sending fd 14 to client
+20200517 01:40:52.999 [servctl:INFO] main:866 
+20200517 01:40:53.015 [servctl:EROR] main:363 sending fd 14 to client
+20200517 02:41:06.679 [servctl:INFO] main:866 
+20200517 02:41:06.698 [servctl:EROR] main:363 sending fd 14 to client
+20200517 04:00:30.838 [servctl:INFO] main:866 
+20200517 04:00:30.848 [servctl:EROR] main:363 sending fd 14 to client
+20200517 05:00:46.231 [servctl:INFO] main:866 
+20200517 05:00:46.241 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200517 05:00:46.262 [servctl:EROR] main:363 sending fd 14 to client
+20200517 06:00:57.562 [servctl:INFO] main:866 
+20200517 06:00:57.580 [servctl:EROR] main:363 sending fd 14 to client
+20200517 07:20:19.659 [servctl:INFO] main:866 
+20200517 07:20:20.113 [servctl:EROR] main:363 sending fd 14 to client
+20200517 08:21:18.216 [servctl:INFO] main:866 
+20200517 08:21:18.232 [servctl:EROR] main:363 sending fd 14 to client
+20200517 09:20:29.390 [servctl:EROR] main:363 sending fd 14 to client
+20200517 09:40:33.965 [servctl:INFO] main:866 
+20200517 09:40:33.978 [servctl:EROR] main:363 sending fd 14 to client
+20200517 10:40:49.646 [servctl:INFO] main:866 
+20200517 10:40:49.661 [servctl:EROR] main:363 sending fd 14 to client
+20200517 11:41:05.653 [servctl:INFO] main:866 
+20200517 11:41:05.667 [servctl:EROR] main:363 sending fd 14 to client
+20200517 13:00:26.433 [servctl:INFO] main:866 
+20200517 13:00:26.442 [servctl:EROR] main:363 sending fd 14 to client
+20200517 14:00:43.940 [servctl:INFO] main:866 
+20200517 14:00:43.973 [servctl:EROR] main:363 sending fd 14 to client
+20200517 15:15:58.522 [servctl:INFO] main:866 
+20200517 15:15:58.541 [servctl:EROR] main:363 sending fd 14 to client
+20200517 15:15:58.544 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200517 16:15:58.601 [servctl:INFO] main:866 
+20200517 16:15:58.607 [servctl:EROR] main:363 sending fd 14 to client
+20200517 22:10:01.038 [servctl:INFO] main:866 
+20200517 22:10:07.572 [servctl:EROR] main:363 sending fd 14 to client
+20200517 23:20:17.503 [servctl:INFO] main:866 
+20200517 23:20:17.513 [servctl:EROR] main:363 sending fd 14 to client
+20200518 00:20:31.270 [servctl:INFO] main:866 
+20200518 00:20:31.284 [servctl:EROR] main:363 sending fd 14 to client
+20200518 01:20:49.258 [servctl:INFO] main:866 
+20200518 01:20:49.277 [servctl:EROR] main:363 sending fd 14 to client
+20200518 02:21:03.333 [servctl:INFO] main:866 
+20200518 02:21:03.343 [servctl:EROR] main:363 sending fd 14 to client
+20200518 03:40:25.147 [servctl:INFO] main:866 
+20200518 03:40:25.150 [servctl:EROR] main:363 sending fd 14 to client
+20200518 04:40:40.000 [servctl:INFO] main:866 
+20200518 04:40:40.005 [servctl:EROR] main:363 sending fd 14 to client
+20200518 06:00:48.603 [servctl:INFO] main:866 
+20200518 06:00:48.644 [servctl:EROR] main:363 sending fd 14 to client
+20200518 07:01:19.000 [servctl:INFO] main:866 
+20200518 07:01:19.009 [servctl:EROR] main:363 sending fd 14 to client
+20200518 08:01:50.455 [servctl:INFO] main:866 
+20200518 08:01:50.467 [servctl:EROR] main:363 sending fd 14 to client
+20200518 09:01:50.547 [servctl:INFO] main:866 
+20200518 09:01:50.551 [servctl:EROR] main:363 sending fd 14 to client
+20200518 09:20:50.572 [servctl:EROR] main:363 sending fd 14 to client
+20200518 10:01:50.654 [servctl:INFO] main:866 
+20200518 10:01:50.659 [servctl:EROR] main:363 sending fd 14 to client
+20200518 11:01:50.763 [servctl:INFO] main:866 
+20200518 11:01:50.769 [servctl:EROR] main:363 sending fd 14 to client
+20200518 12:20:30.784 [servctl:INFO] main:866 
+20200518 12:20:30.800 [servctl:EROR] main:363 sending fd 14 to client
+20200518 13:20:46.358 [servctl:INFO] main:866 
+20200518 13:20:46.370 [servctl:EROR] main:363 sending fd 14 to client
+20200518 14:21:29.042 [servctl:INFO] main:866 
+20200518 14:21:29.047 [servctl:EROR] main:363 sending fd 14 to client
+20200518 15:21:34.354 [servctl:INFO] main:866 
+20200518 15:21:34.364 [servctl:EROR] main:363 sending fd 14 to client
+20200518 15:56:36.770 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 88487
+20200518 15:56:43.537 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 88495
+20200518 16:21:34.463 [servctl:INFO] main:866 
+20200518 16:21:34.491 [servctl:EROR] main:363 sending fd 18 to client
+20200518 17:06:54.383 [servctl:INFO] main:1613 all services left , so quit
+20200518 17:06:54.391 [servctl:INFO] main:103 start to force services to quit
+20200518 17:06:54.394 [servctl.log:INFO] predefine_services:382 stop VPNControl Agent
+20200518 17:06:54.394 [servctl.log:INFO] predefine_services:195 stop webfilter service
+20200518 17:06:54.394 [servctl.log:INFO] predefine_services:356 stop FSSO Agent
+20200518 17:06:54.394 [servctl.log:INFO] predefine_services:340 unload fsso daemon
+20200518 17:06:54.394 [servctl.log:INFO] predefine_services:369 stop CredentialStore Agent
+20200518 17:06:54.395 [servctl:INFO] main:1640 Service controller quit with return value 0
+20200519 08:19:52.093 [servctl:INFO] main:1528 Service controller started
+20200519 08:19:58.081 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 1230
+20200519 08:19:58.228 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 1230
+20200519 08:19:58.306 [servctl:INFO] main:1613 all services left , so quit
+20200519 08:19:58.557 [servctl:INFO] main:103 start to force services to quit
+20200519 08:19:58.702 [servctl:INFO] main:1640 Service controller quit with return value 0
+20200519 08:19:58.713 [servctl.log:INFO] predefine_services:195 stop webfilter service
+20200519 08:19:58.745 [servctl.log:INFO] predefine_services:315 succedded in stop av realtime scan daemon
+20200519 08:19:58.732 [servctl.log:INFO] predefine_services:356 stop FSSO Agent
+20200519 08:19:59.928 [servctl:INFO] main:1528 Service controller started
+20200519 08:20:00.239 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 1230
+20200519 08:20:00.692 [servctl:INFO] main:217 notification socket of service (262144, unknown service) registered successfully. pid = 1355
+20200519 08:20:02.175 [servctl:INFO] main:217 notification socket of service (8192, misc agent) registered successfully. pid = 1360
+20200519 08:20:48.611 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 1596
+20200519 08:21:01.754 [servctl:INFO] main:866 
+20200519 08:21:01.817 [servctl:EROR] main:363 sending fd 12 to client
+20200519 08:41:28.574 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 2019
+20200519 08:41:33.940 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 2025
+20200519 09:21:01.865 [servctl:INFO] main:866 
+20200519 09:21:01.869 [servctl:EROR] main:363 sending fd 16 to client
+20200519 10:21:01.972 [servctl:INFO] main:866 
+20200519 10:21:01.984 [servctl:EROR] main:363 sending fd 16 to client
+20200519 11:21:25.057 [servctl:INFO] main:866 
+20200519 11:21:25.061 [servctl:EROR] main:363 sending fd 12 to client
+20200519 12:32:01.404 [servctl:INFO] main:866 
+20200519 12:32:01.440 [servctl:EROR] main:363 sending fd 12 to client
+20200519 12:57:19.169 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 2882
+20200519 12:57:25.015 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 2887
+20200519 13:32:56.145 [servctl:INFO] main:866 
+20200519 13:32:56.159 [servctl:EROR] main:363 sending fd 12 to client
+20200519 14:33:45.695 [servctl:INFO] main:866 
+20200519 14:33:45.713 [servctl:EROR] main:363 sending fd 12 to client
+20200519 15:12:11.858 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 3492
+20200519 15:12:18.216 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 3500
+20200519 15:33:45.796 [servctl:INFO] main:866 
+20200519 15:33:45.801 [servctl:EROR] main:363 sending fd 16 to client
+20200519 16:33:45.906 [servctl:INFO] main:866 
+20200519 16:33:45.911 [servctl:EROR] main:363 sending fd 16 to client
+20200519 17:33:51.200 [servctl:INFO] main:866 
+20200519 17:33:51.221 [servctl:EROR] main:363 sending fd 12 to client
+20200519 18:34:06.283 [servctl:INFO] main:866 
+20200519 18:34:06.296 [servctl:EROR] main:363 sending fd 12 to client
+20200519 21:21:26.750 [servctl:INFO] main:866 
+20200519 21:21:26.770 [servctl:EROR] main:363 sending fd 12 to client
+20200520 01:28:16.377 [servctl:INFO] main:866 
+20200520 01:28:16.406 [servctl:EROR] main:363 sending fd 12 to client
+20200520 07:39:18.605 [servctl:INFO] main:866 
+20200520 07:39:18.629 [servctl:EROR] main:363 sending fd 12 to client
+20200520 08:39:18.724 [servctl:INFO] main:866 
+20200520 08:39:18.740 [servctl:EROR] main:363 sending fd 12 to client
+20200520 09:21:18.785 [servctl:EROR] main:363 sending fd 12 to client
+20200520 09:39:18.828 [servctl:INFO] main:866 
+20200520 09:39:18.843 [servctl:EROR] main:363 sending fd 12 to client
+20200520 10:39:18.933 [servctl:INFO] main:866 
+20200520 10:39:18.937 [servctl:EROR] main:363 sending fd 12 to client
+20200520 11:39:19.042 [servctl:INFO] main:866 
+20200520 11:39:19.061 [servctl:EROR] main:363 sending fd 12 to client
+20200520 12:39:37.409 [servctl:INFO] main:866 
+20200520 12:39:37.414 [servctl:EROR] main:363 sending fd 12 to client
+20200520 13:01:58.183 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 70358
+20200520 13:02:04.802 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 70365
+20200520 13:39:37.676 [servctl:INFO] main:866 
+20200520 13:39:37.693 [servctl:EROR] main:363 sending fd 12 to client
+20200520 14:39:37.786 [servctl:INFO] main:866 
+20200520 14:39:37.792 [servctl:EROR] main:363 sending fd 12 to client
+20200520 15:39:37.889 [servctl:INFO] main:866 
+20200520 15:39:37.895 [servctl:EROR] main:363 sending fd 12 to client
+20200520 16:39:38.002 [servctl:INFO] main:866 
+20200520 16:39:38.006 [servctl:EROR] main:363 sending fd 12 to client
+20200520 17:42:21.946 [servctl:INFO] main:866 
+20200520 17:42:21.960 [servctl:EROR] main:363 sending fd 12 to client
+20200520 20:13:54.329 [servctl:INFO] main:866 
+20200520 20:13:54.356 [servctl:EROR] main:363 sending fd 12 to client
+20200520 21:34:35.077 [servctl:INFO] main:866 
+20200520 21:34:35.094 [servctl:EROR] main:363 sending fd 12 to client
+20200520 23:22:59.350 [servctl:INFO] main:866 
+20200520 23:22:59.373 [servctl:EROR] main:363 sending fd 12 to client
+20200521 00:25:38.364 [servctl:INFO] main:866 
+20200521 00:25:38.385 [servctl:EROR] main:363 sending fd 12 to client
+20200521 02:13:26.272 [servctl:INFO] main:866 
+20200521 02:13:26.294 [servctl:EROR] main:363 sending fd 12 to client
+20200521 04:01:38.808 [servctl:INFO] main:866 
+20200521 04:01:38.827 [servctl:EROR] main:363 sending fd 12 to client
+20200521 05:49:50.771 [servctl:INFO] main:866 
+20200521 05:49:50.784 [servctl:EROR] main:363 sending fd 12 to client
+20200521 07:42:54.907 [servctl:INFO] main:866 
+20200521 07:42:54.925 [servctl:EROR] main:363 sending fd 12 to client
+20200521 08:43:13.454 [servctl:INFO] main:866 
+20200521 08:43:13.472 [servctl:EROR] main:363 sending fd 12 to client
+20200521 09:22:13.510 [servctl:EROR] main:363 sending fd 12 to client
+20200521 09:43:13.558 [servctl:INFO] main:866 
+20200521 09:43:13.562 [servctl:EROR] main:363 sending fd 12 to client
+20200521 10:30:49.170 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 73076
+20200521 10:30:55.331 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 73084
+20200521 10:43:33.266 [servctl:INFO] main:866 
+20200521 10:43:33.270 [servctl:EROR] main:363 sending fd 16 to client
+20200521 11:43:33.373 [servctl:INFO] main:866 
+20200521 11:43:33.377 [servctl:EROR] main:363 sending fd 16 to client
+20200521 12:43:33.480 [servctl:INFO] main:866 
+20200521 12:43:33.485 [servctl:EROR] main:363 sending fd 16 to client
+20200521 13:43:33.591 [servctl:INFO] main:866 
+20200521 13:43:33.596 [servctl:EROR] main:363 sending fd 16 to client
+20200521 13:49:03.006 [servctl:INFO] main:217 notification socket of service (4, main gui) registered successfully. pid = 73876
+20200521 13:49:25.352 [servctl:INFO] main:866 
+20200521 13:49:25.363 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200521 13:50:24.621 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 73890
+20200521 13:50:30.999 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 73899
+20200521 14:44:24.478 [servctl:INFO] main:866 
+20200521 14:44:24.495 [servctl:EROR] main:363 sending fd 14 to client
+20200521 15:22:31.724 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 74315
+20200521 15:22:38.010 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 74326
+20200521 15:44:24.580 [servctl:INFO] main:866 
+20200521 15:44:24.585 [servctl:EROR] main:363 sending fd 18 to client
+20200521 16:44:24.702 [servctl:INFO] main:866 
+20200521 16:44:24.714 [servctl:EROR] main:363 sending fd 18 to client
+20200521 17:47:27.162 [servctl:INFO] main:866 
+20200521 17:47:27.181 [servctl:EROR] main:363 sending fd 14 to client
+20200521 21:26:56.097 [servctl:INFO] main:866 
+20200521 21:26:56.137 [servctl:EROR] main:363 sending fd 14 to client
+20200521 23:15:54.343 [servctl:INFO] main:866 
+20200521 23:15:54.365 [servctl:EROR] main:363 sending fd 14 to client
+20200522 01:04:06.669 [servctl:INFO] main:866 
+20200522 01:04:06.704 [servctl:EROR] main:363 sending fd 14 to client
+20200522 04:39:29.763 [servctl:INFO] main:866 
+20200522 04:39:29.768 [servctl:EROR] main:363 sending fd 14 to client
+20200522 06:27:42.580 [servctl:INFO] main:866 
+20200522 06:27:42.603 [servctl:EROR] main:363 sending fd 14 to client
+20200522 07:30:14.715 [servctl:INFO] main:866 
+20200522 07:30:14.767 [servctl:EROR] main:363 sending fd 14 to client
+20200522 08:30:15.281 [servctl:INFO] main:866 
+20200522 08:30:15.289 [servctl:EROR] main:363 sending fd 14 to client
+20200522 09:22:14.704 [servctl:EROR] main:363 sending fd 14 to client
+20200522 09:31:14.750 [servctl:INFO] main:866 
+20200522 09:31:14.756 [servctl:EROR] main:363 sending fd 14 to client
+20200522 10:31:14.844 [servctl:INFO] main:866 
+20200522 10:31:14.853 [servctl:EROR] main:363 sending fd 14 to client
+20200522 11:31:14.959 [servctl:INFO] main:866 
+20200522 11:31:14.988 [servctl:EROR] main:363 sending fd 14 to client
+20200522 11:53:11.050 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 76371
+20200522 11:53:17.276 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 76377
+20200522 12:35:16.327 [servctl:INFO] main:866 
+20200522 12:35:16.361 [servctl:EROR] main:363 sending fd 14 to client
+20200522 13:54:43.103 [servctl:INFO] main:866 
+20200522 13:54:43.121 [servctl:EROR] main:363 sending fd 14 to client
+20200522 15:42:55.430 [servctl:INFO] main:866 
+20200522 15:42:55.480 [servctl:EROR] main:363 sending fd 14 to client
+20200522 18:45:19.959 [servctl:INFO] main:866 
+20200522 18:45:20.556 [servctl:EROR] main:363 sending fd 14 to client
+20200522 18:45:20.763 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200522 21:45:29.143 [servctl:INFO] main:866 
+20200522 21:45:29.367 [servctl:EROR] main:363 sending fd 14 to client
+20200523 03:09:44.991 [servctl:INFO] main:866 
+20200523 03:09:45.711 [servctl:EROR] main:363 sending fd 14 to client
+20200523 11:03:22.265 [servctl:INFO] main:866 
+20200523 11:03:22.317 [servctl:EROR] main:363 sending fd 14 to client
+20200523 11:03:22.359 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200523 12:11:46.525 [servctl:INFO] main:866 
+20200523 12:11:46.549 [servctl:EROR] main:363 sending fd 14 to client
+20200523 14:59:37.760 [servctl:INFO] main:866 
+20200523 14:59:37.771 [servctl:EROR] main:363 sending fd 14 to client
+20200523 16:52:20.338 [servctl:INFO] main:866 
+20200523 16:52:20.362 [servctl:EROR] main:363 sending fd 14 to client
+20200523 18:40:32.969 [servctl:INFO] main:866 
+20200523 18:40:32.986 [servctl:EROR] main:363 sending fd 14 to client
+20200523 20:28:43.176 [servctl:INFO] main:866 
+20200523 20:28:43.199 [servctl:EROR] main:363 sending fd 14 to client
+20200523 22:16:55.441 [servctl:INFO] main:866 
+20200523 22:16:55.461 [servctl:EROR] main:363 sending fd 14 to client
+20200524 00:05:07.669 [servctl:INFO] main:866 
+20200524 00:05:07.683 [servctl:EROR] main:363 sending fd 14 to client
+20200524 01:53:19.995 [servctl:INFO] main:866 
+20200524 01:53:20.006 [servctl:EROR] main:363 sending fd 14 to client
+20200524 03:41:32.256 [servctl:INFO] main:866 
+20200524 03:41:32.260 [servctl:EROR] main:363 sending fd 14 to client
+20200524 05:29:44.875 [servctl:INFO] main:866 
+20200524 05:29:44.892 [servctl:EROR] main:363 sending fd 14 to client
+20200524 07:18:01.289 [servctl:INFO] main:866 
+20200524 07:18:01.311 [servctl:EROR] main:363 sending fd 14 to client
+20200524 08:31:00.690 [servctl:INFO] main:866 
+20200524 08:31:00.707 [servctl:EROR] main:363 sending fd 14 to client
+20200524 09:46:46.960 [servctl:INFO] main:866 
+20200524 09:46:46.992 [servctl:EROR] main:363 sending fd 14 to client
+20200524 10:47:02.206 [servctl:INFO] main:866 
+20200524 10:47:02.211 [servctl:EROR] main:363 sending fd 14 to client
+20200524 11:11:04.062 [servctl:EROR] main:363 sending fd 14 to client
+20200524 12:00:51.151 [servctl:INFO] main:866 
+20200524 12:00:51.169 [servctl:EROR] main:363 sending fd 14 to client
+20200524 13:01:09.722 [servctl:INFO] main:866 
+20200524 13:01:09.755 [servctl:EROR] main:363 sending fd 14 to client
+20200524 14:01:10.506 [servctl:INFO] main:866 
+20200524 14:01:10.523 [servctl:EROR] main:363 sending fd 14 to client
+20200524 15:10:14.427 [servctl:INFO] main:866 
+20200524 15:10:14.478 [servctl:EROR] main:363 sending fd 14 to client
+20200524 16:21:14.965 [servctl:INFO] main:866 
+20200524 16:21:14.990 [servctl:EROR] main:363 sending fd 14 to client
+20200524 17:40:40.790 [servctl:INFO] main:866 
+20200524 17:40:40.827 [servctl:EROR] main:363 sending fd 14 to client
+20200524 18:40:57.119 [servctl:INFO] main:866 
+20200524 18:40:57.135 [servctl:EROR] main:363 sending fd 14 to client
+20200524 19:41:11.544 [servctl:INFO] main:866 
+20200524 19:41:11.566 [servctl:EROR] main:363 sending fd 14 to client
+20200524 21:00:35.175 [servctl:INFO] main:866 
+20200524 21:00:35.235 [servctl:EROR] main:363 sending fd 14 to client
+20200524 22:00:49.256 [servctl:INFO] main:866 
+20200524 22:00:49.275 [servctl:EROR] main:363 sending fd 14 to client
+20200524 23:01:08.351 [servctl:INFO] main:866 
+20200524 23:01:08.375 [servctl:EROR] main:363 sending fd 14 to client
+20200525 00:20:30.691 [servctl:INFO] main:866 
+20200525 00:20:30.710 [servctl:EROR] main:363 sending fd 14 to client
+20200525 01:20:44.078 [servctl:INFO] main:866 
+20200525 01:20:44.095 [servctl:EROR] main:363 sending fd 14 to client
+20200525 02:20:57.665 [servctl:INFO] main:866 
+20200525 02:20:57.685 [servctl:EROR] main:363 sending fd 14 to client
+20200525 03:21:13.552 [servctl:INFO] main:866 
+20200525 03:21:13.571 [servctl:EROR] main:363 sending fd 14 to client
+20200525 04:40:34.468 [servctl:INFO] main:866 
+20200525 04:40:34.489 [servctl:EROR] main:363 sending fd 14 to client
+20200525 05:41:15.938 [servctl:INFO] main:866 
+20200525 05:41:15.966 [servctl:EROR] main:363 sending fd 14 to client
+20200525 06:42:06.564 [servctl:INFO] main:866 
+20200525 06:42:06.601 [servctl:EROR] main:363 sending fd 14 to client
+20200525 07:43:04.935 [servctl:INFO] main:866 
+20200525 07:43:04.951 [servctl:EROR] main:363 sending fd 14 to client
+20200525 09:20:24.434 [servctl:INFO] main:866 
+20200525 09:20:24.471 [servctl:EROR] main:363 sending fd 14 to client
+20200525 10:20:42.990 [servctl:INFO] main:866 
+20200525 10:20:43.004 [servctl:EROR] main:363 sending fd 14 to client
+20200525 11:21:01.825 [servctl:INFO] main:866 
+20200525 11:21:01.856 [servctl:EROR] main:363 sending fd 14 to client
+20200525 12:40:26.656 [servctl:INFO] main:866 
+20200525 12:40:26.665 [servctl:EROR] main:363 sending fd 14 to client
+20200525 13:41:17.013 [servctl:INFO] main:866 
+20200525 13:41:17.036 [servctl:EROR] main:363 sending fd 14 to client
+20200525 15:00:46.003 [servctl:INFO] main:866 
+20200525 15:00:46.021 [servctl:EROR] main:363 sending fd 14 to client
+20200525 16:01:16.870 [servctl:INFO] main:866 
+20200525 16:01:16.889 [servctl:EROR] main:363 sending fd 14 to client
+20200525 17:20:34.796 [servctl:INFO] main:866 
+20200525 17:20:34.845 [servctl:EROR] main:363 sending fd 14 to client
+20200525 18:20:40.342 [servctl:INFO] main:866 
+20200525 18:20:40.361 [servctl:EROR] main:363 sending fd 14 to client
+20200525 19:20:55.499 [servctl:INFO] main:866 
+20200525 19:20:55.521 [servctl:EROR] main:363 sending fd 14 to client
+20200525 20:40:53.637 [servctl:INFO] main:866 
+20200525 20:40:53.661 [servctl:EROR] main:363 sending fd 14 to client
+20200525 21:41:10.220 [servctl:INFO] main:866 
+20200525 21:41:10.231 [servctl:EROR] main:363 sending fd 14 to client
+20200525 23:00:53.539 [servctl:INFO] main:866 
+20200525 23:00:53.552 [servctl:EROR] main:363 sending fd 14 to client
+20200526 00:01:08.837 [servctl:INFO] main:866 
+20200526 00:01:08.855 [servctl:EROR] main:363 sending fd 14 to client
+20200526 00:37:36.583 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 84449
+20200526 00:37:42.815 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 84457
+20200526 01:01:08.681 [servctl:INFO] main:866 
+20200526 01:01:08.687 [servctl:EROR] main:363 sending fd 14 to client
+20200526 02:01:16.999 [servctl:INFO] main:866 
+20200526 02:01:17.019 [servctl:EROR] main:363 sending fd 14 to client
+20200526 03:20:33.681 [servctl:INFO] main:866 
+20200526 03:20:33.708 [servctl:EROR] main:363 sending fd 14 to client
+20200526 04:20:51.188 [servctl:INFO] main:866 
+20200526 04:20:51.207 [servctl:EROR] main:363 sending fd 14 to client
+20200526 05:21:09.991 [servctl:INFO] main:866 
+20200526 05:21:10.013 [servctl:EROR] main:363 sending fd 14 to client
+20200526 06:22:08.644 [servctl:INFO] main:866 
+20200526 06:22:08.662 [servctl:EROR] main:363 sending fd 14 to client
+20200526 07:41:12.730 [servctl:INFO] main:866 
+20200526 07:41:12.736 [servctl:EROR] main:363 sending fd 14 to client
+20200526 08:00:15.911 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 85549
+20200526 08:00:22.126 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 85556
+20200526 08:41:45.049 [servctl:INFO] main:866 
+20200526 08:41:45.065 [servctl:EROR] main:363 sending fd 18 to client
+20200526 09:41:49.565 [servctl:INFO] main:866 
+20200526 09:41:49.570 [servctl:EROR] main:363 sending fd 14 to client
+20200526 10:39:34.823 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 86471
+20200526 10:39:41.167 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 86479
+20200526 10:41:49.576 [servctl:INFO] main:866 
+20200526 10:41:49.592 [servctl:EROR] main:363 sending fd 18 to client
+20200526 11:21:49.579 [servctl:EROR] main:363 sending fd 18 to client
+20200526 11:41:49.592 [servctl:INFO] main:866 
+20200526 11:41:49.597 [servctl:EROR] main:363 sending fd 18 to client
+20200526 12:41:49.607 [servctl:INFO] main:866 
+20200526 12:41:49.612 [servctl:EROR] main:363 sending fd 18 to client
+20200526 13:41:49.630 [servctl:INFO] main:866 
+20200526 13:41:49.646 [servctl:EROR] main:363 sending fd 18 to client
+20200526 14:41:49.637 [servctl:INFO] main:866 
+20200526 14:41:49.642 [servctl:EROR] main:363 sending fd 18 to client
+20200526 15:41:49.652 [servctl:INFO] main:866 
+20200526 15:41:49.669 [servctl:EROR] main:363 sending fd 18 to client
+20200526 16:41:49.669 [servctl:INFO] main:866 
+20200526 16:41:49.675 [servctl:EROR] main:363 sending fd 18 to client
+20200526 18:17:02.923 [servctl:INFO] main:866 
+20200526 18:17:02.963 [servctl:EROR] main:363 sending fd 14 to client
+20200526 18:22:42.531 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 90720
+20200526 18:22:48.656 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 90724
+20200526 19:58:01.678 [servctl:INFO] main:866 
+20200526 19:58:01.697 [servctl:EROR] main:363 sending fd 14 to client
+20200526 21:31:09.995 [servctl:INFO] main:866 
+20200526 21:31:15.404 [servctl:EROR] main:363 sending fd 14 to client
+20200526 23:19:22.423 [servctl:INFO] main:866 
+20200526 23:19:23.686 [servctl:EROR] main:363 sending fd 14 to client
+20200527 02:55:37.032 [servctl:INFO] main:866 
+20200527 02:55:37.270 [servctl:EROR] main:363 sending fd 14 to client
+20200527 06:08:49.575 [servctl:INFO] main:866 
+20200527 06:08:49.605 [servctl:EROR] main:363 sending fd 14 to client
+20200527 08:00:07.787 [servctl:INFO] main:866 
+20200527 08:00:07.792 [servctl:EROR] main:363 sending fd 14 to client
+20200527 08:26:55.156 [servctl:INFO] main:1613 all services left , so quit
+20200527 08:26:55.164 [servctl:INFO] main:103 start to force services to quit
+20200527 08:26:55.168 [servctl.log:INFO] predefine_services:356 stop FSSO Agent
+20200527 08:26:55.167 [servctl.log:INFO] predefine_services:195 stop webfilter service
+20200527 08:26:55.168 [servctl.log:INFO] predefine_services:369 stop CredentialStore Agent
+20200527 08:26:55.169 [servctl:INFO] main:1640 Service controller quit with return value 0
+20200527 08:26:55.168 [servctl.log:INFO] predefine_services:382 stop VPNControl Agent
+20200527 08:26:55.168 [servctl.log:INFO] predefine_services:340 unload fsso daemon
+20200527 08:28:09.832 [servctl:INFO] main:1528 Service controller started
+20200527 08:28:37.193 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:37.346 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:37.582 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:37.804 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:37.883 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:37.968 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:38.038 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:38.109 [servctl:INFO] main:217 notification socket of service (8, agent gui) registered successfully. pid = 577
+20200527 08:28:39.208 [servctl:INFO] main:217 notification socket of service (262144, unknown service) registered successfully. pid = 819
+20200527 08:28:48.993 [servctl:INFO] main:217 notification socket of service (8192, misc agent) registered successfully. pid = 858
+20200527 08:29:20.302 [servctl:INFO] main:217 notification socket of service (32768, log upload) registered successfully. pid = 980
+20200527 09:00:48.588 [servctl:INFO] main:866 
+20200527 09:00:48.609 [servctl:EROR] main:363 sending fd 12 to client
+20200527 10:00:48.605 [servctl:INFO] main:866 
+20200527 10:00:48.611 [servctl:EROR] main:363 sending fd 12 to client
+20200527 11:00:48.616 [servctl:INFO] main:866 
+20200527 11:00:48.622 [servctl:EROR] main:363 sending fd 12 to client
+20200527 11:22:48.616 [servctl:EROR] main:363 sending fd 12 to client
+20200527 12:20:40.507 [servctl:INFO] main:866 
+20200527 12:20:40.512 [servctl:EROR] main:363 sending fd 12 to client
+20200527 13:20:57.757 [servctl:INFO] main:866 
+20200527 13:20:57.763 [servctl:EROR] main:363 sending fd 12 to client
+20200527 14:15:23.399 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 2509
+20200527 14:15:29.970 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 2517
+20200527 14:21:01.568 [servctl:INFO] main:866 
+20200527 14:21:01.584 [servctl:EROR] main:363 sending fd 16 to client
+20200527 15:21:01.586 [servctl:INFO] main:866 
+20200527 15:21:01.593 [servctl:EROR] main:363 sending fd 16 to client
+20200527 16:21:01.615 [servctl:INFO] main:866 
+20200527 16:21:01.633 [servctl:EROR] main:363 sending fd 16 to client
+20200527 17:40:48.458 [servctl:INFO] main:866 
+20200527 17:40:48.470 [servctl:EROR] main:363 sending fd 12 to client
+20200527 18:10:20.140 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 12686
+20200527 18:10:25.799 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 12703
+20200527 19:01:10.429 [servctl:INFO] main:866 
+20200527 19:01:10.456 [servctl:EROR] main:363 sending fd 12 to client
+20200527 20:20:43.349 [servctl:INFO] main:866 
+20200527 20:20:43.366 [servctl:EROR] main:363 sending fd 12 to client
+20200527 21:22:03.538 [servctl:INFO] main:866 
+20200527 21:22:03.562 [servctl:EROR] main:363 sending fd 12 to client
+20200527 23:00:29.983 [servctl:INFO] main:866 
+20200527 23:00:29.999 [servctl:EROR] main:363 sending fd 12 to client
+20200528 00:00:44.491 [servctl:INFO] main:866 
+20200528 00:00:44.523 [servctl:EROR] main:363 sending fd 12 to client
+20200528 01:01:00.755 [servctl:INFO] main:866 
+20200528 01:01:00.785 [servctl:EROR] main:363 sending fd 12 to client
+20200528 02:01:13.765 [servctl:INFO] main:866 
+20200528 02:01:13.785 [servctl:EROR] main:363 sending fd 12 to client
+20200528 03:20:31.784 [servctl:INFO] main:866 
+20200528 03:20:31.807 [servctl:EROR] main:363 sending fd 12 to client
+20200528 04:20:47.617 [servctl:INFO] main:866 
+20200528 04:20:47.638 [servctl:EROR] main:363 sending fd 12 to client
+20200528 05:21:05.769 [servctl:INFO] main:866 
+20200528 05:21:05.792 [servctl:EROR] main:363 sending fd 12 to client
+20200528 06:40:29.050 [servctl:INFO] main:866 
+20200528 06:40:29.112 [servctl:EROR] main:363 sending fd 12 to client
+20200528 07:40:50.038 [servctl:INFO] main:866 
+20200528 07:40:50.065 [servctl:EROR] main:363 sending fd 12 to client
+20200528 08:21:36.903 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 18878
+20200528 08:21:43.054 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 18886
+20200528 08:41:20.767 [servctl:INFO] main:866 
+20200528 08:41:20.773 [servctl:EROR] main:363 sending fd 16 to client
+20200528 09:41:20.780 [servctl:INFO] main:866 
+20200528 09:41:20.787 [servctl:EROR] main:363 sending fd 16 to client
+20200528 10:41:20.809 [servctl:INFO] main:866 
+20200528 10:41:20.827 [servctl:EROR] main:363 sending fd 16 to client
+20200528 11:23:20.807 [servctl:EROR] main:363 sending fd 16 to client
+20200528 11:41:20.829 [servctl:INFO] main:866 
+20200528 11:41:20.846 [servctl:EROR] main:363 sending fd 16 to client
+20200528 12:41:50.674 [servctl:INFO] main:866 
+20200528 12:41:50.703 [servctl:EROR] main:363 sending fd 12 to client
+20200528 13:42:42.566 [servctl:INFO] main:866 
+20200528 13:42:42.572 [servctl:EROR] main:363 sending fd 12 to client
+20200528 14:37:56.067 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 30324
+20200528 14:38:02.438 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 30332
+20200528 14:42:42.563 [servctl:INFO] main:866 
+20200528 14:42:42.581 [servctl:EROR] main:363 sending fd 16 to client
+20200528 15:42:42.581 [servctl:INFO] main:866 
+20200528 15:42:42.599 [servctl:EROR] main:363 sending fd 16 to client
+20200528 16:42:42.596 [servctl:INFO] main:866 
+20200528 16:42:42.619 [servctl:EROR] main:363 sending fd 16 to client
+20200528 21:03:48.307 [servctl:INFO] main:866 
+20200528 21:03:54.633 [servctl:EROR] main:363 sending fd 12 to client
+20200529 05:04:33.937 [servctl:INFO] main:866 
+20200529 05:04:34.179 [servctl:EROR] main:363 sending fd 12 to client
+20200529 06:09:08.146 [servctl:INFO] main:866 
+20200529 06:09:09.324 [servctl:EROR] main:363 sending fd 12 to client
+20200529 07:21:10.540 [servctl:INFO] main:866 
+20200529 07:21:10.553 [servctl:EROR] main:363 sending fd 12 to client
+20200529 07:21:10.601 [servctl:EROR] main:1600 poll returned error: Interrupted system call
+20200529 08:21:38.397 [servctl:INFO] main:866 
+20200529 08:21:38.413 [servctl:EROR] main:363 sending fd 12 to client
+20200529 09:21:38.410 [servctl:INFO] main:866 
+20200529 09:21:38.434 [servctl:EROR] main:363 sending fd 12 to client
+20200529 10:21:38.428 [servctl:INFO] main:866 
+20200529 10:21:38.445 [servctl:EROR] main:363 sending fd 12 to client
+20200529 10:33:56.760 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 33575
+20200529 10:34:03.063 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 33582
+20200529 11:21:38.439 [servctl:INFO] main:866 
+20200529 11:21:38.445 [servctl:EROR] main:363 sending fd 16 to client
+20200529 11:23:38.439 [servctl:EROR] main:363 sending fd 16 to client
+20200529 12:21:38.460 [servctl:INFO] main:866 
+20200529 12:21:38.477 [servctl:EROR] main:363 sending fd 16 to client
+20200529 13:21:38.479 [servctl:INFO] main:866 
+20200529 13:21:38.496 [servctl:EROR] main:363 sending fd 16 to client
+20200529 14:21:38.490 [servctl:INFO] main:866 
+20200529 14:21:38.508 [servctl:EROR] main:363 sending fd 16 to client
+20200529 15:21:38.499 [servctl:INFO] main:866 
+20200529 15:21:38.505 [servctl:EROR] main:363 sending fd 16 to client
+20200529 16:21:38.512 [servctl:INFO] main:866 
+20200529 16:21:38.530 [servctl:EROR] main:363 sending fd 16 to client
+20200529 17:40:36.174 [servctl:INFO] main:866 
+20200529 17:40:36.191 [servctl:EROR] main:363 sending fd 12 to client
+20200529 18:40:49.433 [servctl:INFO] main:866 
+20200529 18:40:49.459 [servctl:EROR] main:363 sending fd 12 to client
+20200529 19:41:04.269 [servctl:INFO] main:866 
+20200529 19:41:04.290 [servctl:EROR] main:363 sending fd 12 to client
+20200529 20:33:03.655 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 35734
+20200529 20:33:09.954 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 35743
+20200529 20:41:45.935 [servctl:INFO] main:866 
+20200529 20:41:45.941 [servctl:EROR] main:363 sending fd 16 to client
+20200529 22:00:27.051 [servctl:INFO] main:866 
+20200529 22:00:27.077 [servctl:EROR] main:363 sending fd 12 to client
+20200529 23:00:41.056 [servctl:INFO] main:866 
+20200529 23:00:41.078 [servctl:EROR] main:363 sending fd 12 to client
+20200530 00:01:00.985 [servctl:INFO] main:866 
+20200530 00:01:01.025 [servctl:EROR] main:363 sending fd 12 to client
+20200530 01:01:20.987 [servctl:INFO] main:866 
+20200530 01:01:21.009 [servctl:EROR] main:363 sending fd 12 to client
+20200530 02:20:34.569 [servctl:INFO] main:866 
+20200530 02:20:34.586 [servctl:EROR] main:363 sending fd 12 to client
+20200530 03:20:46.582 [servctl:INFO] main:866 
+20200530 03:20:46.607 [servctl:EROR] main:363 sending fd 12 to client
+20200530 04:03:43.965 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 36859
+20200530 04:03:50.064 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 36866
+20200530 04:21:44.172 [servctl:INFO] main:866 
+20200530 04:21:44.189 [servctl:EROR] main:363 sending fd 16 to client
+20200530 05:21:44.185 [servctl:INFO] main:866 
+20200530 05:21:44.215 [servctl:EROR] main:363 sending fd 16 to client
+20200530 06:22:37.800 [servctl:INFO] main:866 
+20200530 06:22:37.816 [servctl:EROR] main:363 sending fd 12 to client
+20200530 07:22:51.774 [servctl:INFO] main:866 
+20200530 07:22:51.792 [servctl:EROR] main:363 sending fd 12 to client
+20200530 08:22:51.886 [servctl:INFO] main:866 
+20200530 08:22:51.909 [servctl:EROR] main:363 sending fd 12 to client
+20200530 08:50:12.347 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 38100
+20200530 08:50:18.541 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 38111
+20200530 09:23:43.330 [servctl:INFO] main:866 
+20200530 09:23:43.347 [servctl:EROR] main:363 sending fd 16 to client
+20200530 10:23:43.338 [servctl:INFO] main:866 
+20200530 10:23:43.354 [servctl:EROR] main:363 sending fd 16 to client
+20200530 11:23:43.357 [servctl:INFO] main:866 
+20200530 11:23:43.379 [servctl:EROR] main:363 sending fd 16 to client
+20200530 12:23:43.386 [servctl:INFO] main:866 
+20200530 12:23:43.399 [servctl:EROR] main:363 sending fd 16 to client
+20200530 13:23:43.398 [servctl:INFO] main:866 
+20200530 13:23:43.409 [servctl:EROR] main:363 sending fd 16 to client
+20200530 14:23:43.426 [servctl:INFO] main:866 
+20200530 14:23:43.450 [servctl:EROR] main:363 sending fd 16 to client
+20200530 15:23:43.420 [servctl:INFO] main:866 
+20200530 15:23:43.445 [servctl:EROR] main:363 sending fd 16 to client
+20200530 16:16:17.575 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 58540
+20200530 16:16:23.938 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 58546
+20200530 16:24:28.598 [servctl:INFO] main:866 
+20200530 16:24:28.621 [servctl:EROR] main:363 sending fd 16 to client
+20200530 17:41:13.495 [servctl:INFO] main:866 
+20200530 17:41:13.517 [servctl:EROR] main:363 sending fd 12 to client
+20200530 19:11:40.598 [servctl:INFO] main:866 
+20200530 19:11:40.616 [servctl:EROR] main:363 sending fd 12 to client
+20200530 20:11:56.137 [servctl:INFO] main:866 
+20200530 20:11:56.163 [servctl:EROR] main:363 sending fd 12 to client
+20200530 21:00:34.693 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 59262
+20200530 21:00:41.970 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 59270
+20200530 21:12:20.174 [servctl:INFO] main:866 
+20200530 21:12:20.179 [servctl:EROR] main:363 sending fd 16 to client
+20200530 22:19:18.755 [servctl:INFO] main:866 
+20200530 22:19:18.762 [servctl:EROR] main:363 sending fd 12 to client
+20200530 23:20:51.304 [servctl:INFO] main:866 
+20200530 23:20:51.328 [servctl:EROR] main:363 sending fd 12 to client
+20200531 00:21:06.444 [servctl:INFO] main:866 
+20200531 00:21:06.474 [servctl:EROR] main:363 sending fd 12 to client
+20200531 01:40:24.885 [servctl:INFO] main:866 
+20200531 01:40:24.907 [servctl:EROR] main:363 sending fd 12 to client
+20200531 02:40:40.112 [servctl:INFO] main:866 
+20200531 02:40:40.134 [servctl:EROR] main:363 sending fd 12 to client
+20200531 03:40:55.431 [servctl:INFO] main:866 
+20200531 03:40:55.456 [servctl:EROR] main:363 sending fd 12 to client
+20200531 04:41:10.978 [servctl:INFO] main:866 
+20200531 04:41:11.154 [servctl:EROR] main:363 sending fd 12 to client
+20200531 06:00:32.498 [servctl:INFO] main:866 
+20200531 06:00:32.517 [servctl:EROR] main:363 sending fd 12 to client
+20200531 07:01:16.833 [servctl:INFO] main:866 
+20200531 07:01:16.842 [servctl:EROR] main:363 sending fd 12 to client
+20200531 08:20:37.661 [servctl:INFO] main:866 
+20200531 08:20:37.686 [servctl:EROR] main:363 sending fd 12 to client
+20200531 09:20:51.836 [servctl:INFO] main:866 
+20200531 09:20:51.859 [servctl:EROR] main:363 sending fd 12 to client
+20200531 10:21:08.932 [servctl:INFO] main:866 
+20200531 10:21:08.956 [servctl:EROR] main:363 sending fd 12 to client
+20200531 11:21:53.909 [servctl:INFO] main:866 
+20200531 11:21:53.934 [servctl:EROR] main:363 sending fd 12 to client
+20200531 11:23:53.899 [servctl:EROR] main:363 sending fd 12 to client
+20200531 12:40:43.188 [servctl:INFO] main:866 
+20200531 12:40:43.204 [servctl:EROR] main:363 sending fd 12 to client
+20200531 13:40:58.957 [servctl:INFO] main:866 
+20200531 13:40:58.973 [servctl:EROR] main:363 sending fd 12 to client
+20200531 14:41:13.896 [servctl:INFO] main:866 
+20200531 14:41:13.915 [servctl:EROR] main:363 sending fd 12 to client
+20200531 16:00:36.757 [servctl:INFO] main:866 
+20200531 16:00:36.779 [servctl:EROR] main:363 sending fd 12 to client
+20200531 17:01:20.035 [servctl:INFO] main:866 
+20200531 17:01:20.059 [servctl:EROR] main:363 sending fd 12 to client
+20200531 18:20:39.349 [servctl:INFO] main:866 
+20200531 18:20:39.383 [servctl:EROR] main:363 sending fd 12 to client
+20200531 19:20:49.439 [servctl:INFO] main:866 
+20200531 19:20:49.448 [servctl:EROR] main:363 sending fd 12 to client
+20200531 20:21:02.277 [servctl:INFO] main:866 
+20200531 20:21:02.316 [servctl:EROR] main:363 sending fd 12 to client
+20200531 21:21:23.275 [servctl:INFO] main:866 
+20200531 21:21:23.669 [servctl:EROR] main:363 sending fd 12 to client
+20200531 22:40:37.889 [servctl:INFO] main:866 
+20200531 22:40:37.914 [servctl:EROR] main:363 sending fd 12 to client
+20200531 23:40:52.110 [servctl:INFO] main:866 
+20200531 23:40:52.147 [servctl:EROR] main:363 sending fd 12 to client
+20200601 00:40:59.173 [servctl:INFO] main:866 
+20200601 00:40:59.301 [servctl:EROR] main:363 sending fd 12 to client
+20200601 01:41:14.837 [servctl:INFO] main:866 
+20200601 01:41:14.855 [servctl:EROR] main:363 sending fd 12 to client
+20200601 03:00:37.552 [servctl:INFO] main:866 
+20200601 03:00:37.600 [servctl:EROR] main:363 sending fd 12 to client
+20200601 04:00:57.006 [servctl:INFO] main:866 
+20200601 04:00:57.031 [servctl:EROR] main:363 sending fd 12 to client
+20200601 05:14:14.812 [servctl:INFO] main:866 
+20200601 05:14:14.836 [servctl:EROR] main:363 sending fd 12 to client
+20200601 06:40:33.652 [servctl:INFO] main:866 
+20200601 06:40:33.690 [servctl:EROR] main:363 sending fd 12 to client
+20200601 07:02:54.278 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 63546
+20200601 07:03:00.480 [servctl:INFO] main:217 notification socket of service (65536, vpn daemon) registered successfully. pid = 63555
+20200601 07:26:25.514 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 63810
+20200601 07:27:04.362 [servctl:INFO] main:217 notification socket of service (4, main gui) registered successfully. pid = 63816
+20200601 07:32:20.830 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 63847
+20200601 07:32:24.033 [servctl:EROR] main:363 sending fd 16 to client
+20200601 07:32:53.397 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 63855
+20200601 07:32:56.590 [servctl:EROR] main:363 sending fd 16 to client
+20200601 07:33:59.600 [servctl:INFO] main:217 notification socket of service (256, vpn client) registered successfully. pid = 63861
+20200601 07:34:02.753 [servctl:EROR] main:363 sending fd 16 to client
